@@ -1,0 +1,48 @@
+<footer id="my-footer" class="bg-dark mt-3 pt-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav">
+                    {% for item in site.data.socialitems %}
+                    <li class="nav-item">
+                        <a class="nav-link pl-0" href="{{item.uri}}"><i class="fab fa-{{item.type}} fa-2x"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-3 mb-3">
+                <h6>Pagina's</h6>
+                <ul class="nav">
+                    {% for item in site.data.navitems %}
+                    <li class="nav-item">
+                        <a class="nav-link pl-0" href="{{item.uri}}">{{item.name}}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-6 mb-3">
+                <h6>Recente posts</h6>
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="nav flex-column">
+                            {% for post in site.posts limit:3 %}
+                            <li class="nav-item">
+                                <a class="nav-link pl-0" href="{{ post.url }}">{{ post.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="nav flex-column">
+                            {% for post in site.posts offset:3 limit:3 %}
+                            <li class="nav-item">
+                                <a class="nav-link pl-0" href="{{ post.url }}">{{ post.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

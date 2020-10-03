@@ -1,0 +1,4 @@
+- name: Home
+  uri: /
+- name: "Over mij"
+  uri: /over-mij.html

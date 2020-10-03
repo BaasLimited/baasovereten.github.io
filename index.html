@@ -1,0 +1,42 @@
+---
+title: "Baas over Eten"
+permalink: /
+---
+<div class="row">
+    <div class="col-md-6 mb-3">
+        {% if site.posts.first.image!='' %}
+        <a href="{{ site.posts.first.url }}">
+            <img src="{{ site.posts.first.image }}" class="img-fluid" alt="Responsive image">
+        </a>
+        {% endif %}
+    </div>
+    <div class="col-md-6 align-self-center">
+        <span class="post-tag">{{ site.posts.first.tag }}</span>
+        <h1>
+            <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
+        </h1>
+        <p>{{ site.posts.first.excerpt }}</p>
+    </div>
+</div>
+<div class="row mt-3">
+    {% for post in site.posts offset:1 limit:4 %}
+    <div class="col-md-3 col-sm-12 home-post">
+        <div class="row">
+            <div class="col-md-12 d-sm-block d-md-none d-lg-none mb-3">
+                <hr />
+            </div>
+            <div class="col-md-12 col-4">
+                {% if post.image!='' %}
+                <a href="{{ post.url }}">
+                    <img src="{{ post.image }}" class="img-fluid" alt="Responsive image">
+                </a>
+                {% endif %}
+            </div>
+            <div class="col-md-12 col-8">
+                <h4><a href="{{ post.url }}">{{ post.title }}{{post.index}}</a></h4>
+                <p>{{ post.excerpt }}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
