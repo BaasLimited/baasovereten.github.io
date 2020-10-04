@@ -1,4 +1,6 @@
 - type: twitter
-  uri: /
+  uri: https://twitter.com/BaasEten
 - type: instagram
-  uri: /
+  uri: https://www.instagram.com/baas_over_eten
+- type: pinterest
+  uri: https://nl.pinterest.com/renske_baas
