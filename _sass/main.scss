@@ -125,3 +125,10 @@ body {
 .content {
   flex: 1 0 auto;
 }
+
+.content blockquote {
+  border-left: 2px solid black;
+  padding-left: 1rem;
+  line-height: 2.1rem;
+  font-style: italic;
+}
