@@ -1,5 +1,5 @@
 ---
-title:      "Respectvol "nee" zeggen op traktaties"
+title:      "Respectvol nee zeggen op traktaties"
 date:       2020-10-04 14:00:00 +0200
 tag:        "Over afvallen"
 category:   "over-afvallen"
