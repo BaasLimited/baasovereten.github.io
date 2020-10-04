@@ -6,7 +6,7 @@ permalink: /
     <div class="col-md-6 mb-3">
         {% if site.posts.first.image!='' %}
         <a href="{{ site.posts.first.url }}">
-            <img src="{{ site.posts.first.image }}" class="img-fluid" alt="Responsive image">
+            <img src="{{ site.posts.first.image }}" class="img-fluid" alt="{{ site.posts.first.caption }}">
         </a>
         {% endif %}
     </div>
@@ -28,7 +28,7 @@ permalink: /
             <div class="col-md-12 col-4">
                 {% if post.image!='' %}
                 <a href="{{ post.url }}">
-                    <img src="{{ post.image }}" class="img-fluid" alt="Responsive image">
+                    <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
                 </a>
                 {% endif %}
             </div>
