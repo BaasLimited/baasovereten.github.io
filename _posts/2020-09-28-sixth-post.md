@@ -14,5 +14,6 @@ published:  true
 
 sdfsd fdsf 
 dsf 
-dsf sdf sd fdssdf sd fsdf 
-![Waterverf en fineliner - Aardbei](/uploads/aardbei.jpg)
+dsf sdf sd fdssdf sd fsdf
+
+![Waterverf en fineliner - Aardbei](/uploads/Aardbei.jpeg)
