@@ -16,5 +16,4 @@ sdfsd fdsf
 dsf 
 dsf sdf sd fdssdf sd fsdf
 
-![Waterverf en fineliner - Aardbei](/uploads/Aardbei.jpeg)
-*Aardbei (waterverf en fineliner in schetsboek*
+{% include image.html url="/uploads/Aardbei.jpeg" description="Aardbei (waterverf en fineliner in schetsboek" %}
