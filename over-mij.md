@@ -11,4 +11,4 @@ Nu zit ik aan de groene kant van de BMI schaal. De interesse in gezond eten en b
 
 PS. alle tekeningen op deze website heb ik zelf gemaakt.
 
-#gezondheid #rekenen #cijfertjes #vega #tekenen #inspiratie #vrijleven #doenwatjewilt #jeleeftmaareenkeer
+#gezondheid #rekenen #cijfertjes #vega #tekenen #inspiratie #vrijleven #doenwatjewilt 
