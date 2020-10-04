@@ -17,3 +17,4 @@ dsf
 dsf sdf sd fdssdf sd fsdf
 
 ![Waterverf en fineliner - Aardbei](/uploads/Aardbei.jpeg)
+*Aarbei (waterverf en fineliner in schetsboek*
