@@ -29,13 +29,13 @@ jobs:
           target: "uploads"
           # New resolution for images
           dimensions: "730x"
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          author_name: Sander Baas
+          author_email: sander@baasmail.nl
+          message: "Commit resized uploaded images"
+          add: "uploads"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
