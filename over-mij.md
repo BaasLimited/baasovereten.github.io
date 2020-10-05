@@ -3,7 +3,7 @@ title: "Wie is de Baas Over Eten?"
 permalink: /over-mij
 ---
 
-![foto Renske Baas](/uploads/fotoblog.jpg)
+![foto Renske Baas](/uploads/mijnfoto.jpg)
 
 Ik ben Renske Baas - Kok. Ook wel Renske Kok genoemd.
 Ik ben algemeen- en gezondheidseconoom. Fan van cijfers. Je maakt me gelukkig met rekenmodellen en projectschema's. Je kan me wakker maken voor een goede grafiek. Cijfers en data in een beeld zeggen meer dan duizend woorden.
