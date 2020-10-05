@@ -1,5 +1,5 @@
 ---
-title: "Wie is de Baas Over Eten?"
+title: "Wie is de Baas Over?"
 permalink: /over-mij
 ---
 Ik ben Renske Baas - Kok. Ook wel Renske Kok genoemd.
