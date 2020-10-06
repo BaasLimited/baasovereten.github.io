@@ -23,13 +23,13 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Resize uploaded images
-        uses: xprilion/img-resizer-inplace@v1
+        uses: sanderbaas/img-resizer-inplace-idempotent@v2
         with:
           # Folder in which images are stored
           target: "uploads"
-          # New resolution for images
-          dimensions: "730x"
-          
+          width: 730
+          height: 9999
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
         with:
