@@ -16,6 +16,6 @@ Nu zit ik aan de groene kant van de BMI schaal. De interesse in gezond eten en b
 
 Wat doe je vervolgens mij al deze kennis? Dit heeft me geïnspireerd om deze website op te zetten. Zo kan ik mijn inzichten over coaching, gezond leven en wat ik verder nog boeiend vind delen met wie het lezen wilt. Wie weet, misschien dat iemand er iets aan heeft.
 
-PS. Oh ja, alle tekeningen op de website zijn zelfgemaakt
+PS. Oh ja, alle tekeningen op de website zijn zelf gemaakt
 
 #gezondheid #rekenen #cijfertjes #vega #tekenen #waterverven #inspiratie #vrijleven #doenwatjewilt 
