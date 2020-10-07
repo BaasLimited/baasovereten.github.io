@@ -3,8 +3,8 @@ title:      "Meer bewegen...#hoedan?"
 date:       2020-10-07 12:00:00 +0200
 tag:        "Over bewegen"
 category:   "over-bewegen"
-image:      /uploads/zomertijd.jpg
-caption:    "Zomertijd (Collage van papiertjes uit Flow Magazine)"
+image:      /uploads/Herfst3.jpg
+caption:    "Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
 published:  true
 ---
@@ -28,7 +28,7 @@ Ik geloof erin dat deze op de lange termijn beter werken werken dan alleen fanat
 
 > Alle kleine beetjes helpen, dus probeer vooral in je normale leven het bewegen in te puzzelen
 
-{% include image.html url="/uploads/Herfst3.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/zomertijd.jpg" description="Zomertijd (Collage van papiertjes uit Flow Magazine)" %}
 
 Je beweegt op een gegeven moment op de automatische piloot en het is niet bijzonder meer. Het kost je gevoelsmatig geen extra moeite. Als je normale routine een keer niet kan dan zal je het zelfs missen. Een paar voorbeelden:
 
