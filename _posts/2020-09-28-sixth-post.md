@@ -6,7 +6,7 @@ category:   "over-eten"
 image:      /uploads/eitjes.jpg
 caption:    "Eieren (waterverf en fineliner in schetsboek"
 excerpt:    "Ik ga schrijven over eten en ik teken er ook wat bij."
-published:  true
+published:  false
 ---
 
 ## Kop2
