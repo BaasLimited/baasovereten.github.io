@@ -6,7 +6,7 @@ category:   "over-sporten"
 image:      /uploads/hardlopen.jpg
 caption:    "Hardlopen in de stad (waterverf en fineliner in schetsboekje)"
 excerpt:    "Sporten is goed voor je, maar niet iedereen houdt het vol. Het is een van die dingen die we ons voornemen, een paar weken doen en daarna weer laten versloffen. Mijn gouden regel om het wel vol te houden: luister goed naar je lijf. Zorg dat de drempel om te gaan laag is en dat je blijft bewegen. En als je bezig bent, push jezelf als je het leuk vindt maar niet teveel."
-published:  false
+published:  true
 ---
 
 In mijn eerdere blog met tips om meer te bewegen schreef ik al wat de bewegingsrichtlijnen van de gezondheidsraad zijn. Veeel bewegen en sporten dus! Als het lukt: RESPECT. Als het niet lukt: hier wat tips.
