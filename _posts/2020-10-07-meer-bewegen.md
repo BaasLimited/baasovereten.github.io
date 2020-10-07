@@ -4,7 +4,7 @@ date:       2020-10-07 12:00:00 +0200
 tag:        "Over bewegen"
 category:   "over-bewegen"
 image:      /uploads/zomertijd.jpg
-caption:    "Zomertijd (Collage van patronen uit Flow Magazine)"
+caption:    "Zomertijd (Collage van papiertjes uit Flow Magazine)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
 published:  true
 ---
