@@ -1,5 +1,5 @@
 ---
-title:      "Meer bewegen...#hoedan?"
+title:      "Meer bewegen... #hoedan?"
 date:       2020-10-07 12:00:00 +0200
 tag:        "Over bewegen"
 category:   "over-bewegen"
