@@ -28,7 +28,7 @@ Ik geloof erin dat deze op de lange termijn beter werken werken dan alleen fanat
 
 > Alle kleine beetjes helpen, dus probeer vooral in je normale leven het bewegen in te puzzelen
 
-{% include image.html url="/uploads/herfst3.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/Herfst3.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
 
 Je beweegt op een gegeven moment op de automatische piloot en het is niet bijzonder meer. Het kost je gevoelsmatig geen extra moeite. Als je normale routine een keer niet kan dan zal je het zelfs missen. Een paar voorbeelden:
 
