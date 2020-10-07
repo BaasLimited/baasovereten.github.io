@@ -12,7 +12,7 @@ Vaak wordt gedacht dat economie alleen over geld gaat. Economie is breder dan da
 
 ___
 
-#### Als ik al enige deskundigheid heb, dan is die gebaseerd op hoe weinig ik weet - Socrates
+#### Als ik al enige deskundigheid heb, dan is die gebaseerd op hoe weinig ik weet - _Socrates_
 
 ___
 
