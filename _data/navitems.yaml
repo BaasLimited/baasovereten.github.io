@@ -2,3 +2,5 @@
   uri: /
 - name: "Over mij"
   uri: /over-mij.html
+- name: "Contact"
+  uri: /contact.html

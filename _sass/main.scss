@@ -124,6 +124,19 @@ body {
 }
 .content {
   flex: 1 0 auto;
+  a {
+    color:$bodyColor;
+  }
+  a:hover {
+    color:$bodyColor;
+    text-decoration:none;
+    border-bottom:2px solid $bodyColor;
+  }
+}
+
+.content .contact-social-link, .content .contact-social-link:hover {
+  border:none;
+  text-decoration: none;
 }
 
 .content blockquote {
@@ -135,4 +148,10 @@ body {
 
 .content img {
   max-width:100%;
+}
+
+.e-mail:before {
+  content: attr(data-website) "\0040" attr(data-user);
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }
