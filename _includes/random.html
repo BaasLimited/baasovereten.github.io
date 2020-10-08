@@ -1,0 +1,5 @@
+{% assign g = 0 %}
+{% assign min = 1000000 %}
+{% assign max = 9999999 %}
+{% assign diff = max | minus: min %}
+{% assign random = "now" | date: "%N" | modulo: diff | plus: min %}

@@ -155,3 +155,7 @@ body {
   unicode-bidi: bidi-override;
   direction: rtl;
 }
+
+.my-gallery .modal-dialog {
+  max-width: 750px;
+}

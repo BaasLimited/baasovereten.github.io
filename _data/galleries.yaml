@@ -1,0 +1,11 @@
+-
+  id: 'pentekeningen'
+  title: "Pentekeningen"
+  description: "Deze tekeningen zijn gemaakt met de pen"
+  items:
+    -
+      image: "/uploads/Fiets.jpg"
+      caption: "test 2"
+    -
+      image: "/uploads/Herfst3.jpg"
+      caption: "test 1"
