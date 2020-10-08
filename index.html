@@ -1,6 +1,7 @@
 ---
 title: "Baas over Eten"
 permalink: /
+
 ---
 <div class="row">
     <div class="col-md-6 mb-3">
@@ -19,22 +20,31 @@ permalink: /
     </div>
 </div>
 <div class="row mt-3">
-    {% for post in site.posts offset:1 limit:4 %}
-    <div class="col-md-3 col-sm-12 home-post">
+    {% for post in site.posts offset:1 limit:3 %}
+    <div class="col-md-4 col-sm-12 home-post">
         <div class="row">
             <div class="col-md-12 d-sm-block d-md-none d-lg-none mb-3">
                 <hr />
             </div>
-            <div class="col-md-12 col-4">
+            <div class="col-md-12 d-none d-sm-block pb-3">
                 {% if post.image!='' %}
                 <a href="{{ post.url }}">
                     <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
                 </a>
                 {% endif %}
             </div>
-            <div class="col-md-12 col-8">
+            <div class="col-md-12">
                 <h4><a href="{{ post.url }}">{{ post.title }}{{post.index}}</a></h4>
-                <p>{{ post.excerpt }}</p>
+                <p>
+                    {% if post.image!='' %}
+                    <span class="d-block d-sm-none">
+                    <a href="{{ post.url }}">
+                        <img src="{{ post.image }}" class="img-fluid w-50 float-left pr-3" alt="{{ post.caption }}">
+                    </a>
+                    </span>
+                    {% endif %}
+                    {{ post.excerpt }}
+                </p>
             </div>
         </div>
     </div>
