@@ -17,7 +17,7 @@
   description: "Deze tekeningen zijn gemaakt met waterverf en fineliner"
   items:
     -
-      image: "/uploads/Aardbei.jpg"
+      image: "/uploads/Aardbei.jpeg"
       caption: "Aardbei met fineliner en waterverf"
     -
       image: "/uploads/appel.jpg"
