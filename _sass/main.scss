@@ -144,6 +144,11 @@ body {
   text-decoration: none!important;
 }
 
+.gallery-closed-item img {
+  cursor:pointer;
+  cursor:hand;
+}
+
 @media(min-width:768px) {
   .carousel-control-prev {
     left:-90px;

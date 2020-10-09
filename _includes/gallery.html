@@ -13,10 +13,10 @@
         {% if include.show_description==true %}
             <p>{{ gallery.description }}</p>
         {% endif %}
-        <div class="row" id="gallery-{{ g }}" data-toggle="modal" data-target="#gallery-modal-{{ g }}">
+        <div class="row gallery-closed" id="gallery-{{ g }}" data-toggle="modal" data-target="#gallery-modal-{{ g }}">
             {% assign i = 0 %}
             {% for item in gallery.items %}
-                <div class="col-6 col-md-4 pb-3">
+                <div class="col-6 col-md-4 pb-3 gallery-closed-item">
                     <img class="w-100" src="{{ item.image }}" data-target="#carousel-{{ g }}" data-slide-to="{{ i }}">
                 </div>
                 {% assign i = i | plus: 1 %}
