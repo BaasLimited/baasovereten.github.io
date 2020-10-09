@@ -9,3 +9,28 @@
     -
       image: "/uploads/Herfst3.jpg"
       caption: "test 1"
+     
+     
+-
+  id: 'waterverfeten'
+  title: "Schetsen van eten met waterverf"
+  description: "Deze tekeningen zijn gemaakt met waterverf en fineliner"
+  items:
+    -
+      image: "/uploads/Aardbei.jpg"
+      caption: "Aardbei met fineliner en waterverf"
+    -
+      image: "/uploads/appel.jpg"
+      caption: "Appel met fineliner en waterverf"
+    -
+      image: "/uploads/banaan.jpg"
+      caption: "Banaan met fineliner en waterverf"
+    -
+      image: "/uploads/donut.jpg"
+      caption: "Donut met fineliner en waterverf"
+    -
+      image: "/uploads/eitjes.jpg"
+      caption: "Eitjes met fineliner en waterverf"
+    -
+      image: "/uploads/tompoes.jpg"
+      caption: "Tompoes met fineliner en waterverf"
