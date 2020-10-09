@@ -136,11 +136,22 @@ body {
   }
 }
 
-.content .contact-social-link, .content .contact-social-link:hover {
-  border:none;
-  text-decoration: none;
+.content .contact-social-link,
+.content .contact-social-link:hover,
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  border:none!important;
+  text-decoration: none!important;
 }
 
+@media(min-width:768px) {
+  .carousel-control-prev {
+    left:-90px;
+  }
+  .carousel-control-next {
+    right:-90px;
+  }
+}
 .content blockquote {
   border-left: 2px solid black;
   padding-left: 1rem;
