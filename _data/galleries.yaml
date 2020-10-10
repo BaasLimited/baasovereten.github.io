@@ -49,19 +49,19 @@
       image: "/uploads/appel.jpg" 
       caption: "Appel (fineliner en kleurpotlood in schetsboekje)"
     - 
-      image: "uploads/aardbei.jpg" 
+      image: "/uploads/aardbei.jpg" 
       caption: "Aardbei (fineliner en waterverf in schetsboekje)" 
     - 
-      image: "uploads/kersen.jpg"
+      image: "/uploads/kersen.jpg"
       caption: "Kersen (fineliner en waterverf in schetsboekje)"
     -
-      image: "uploads/balpen-vliegende-appel.jpg"
+      image: "/uploads/balpen-vliegende-appel.jpg"
       caption: "Het verhaal van de vliegende appel (doodle van balpen op kladpapiertje)" 
     -
-      image: "uploads/granola.jpg"
+      image: "/uploads/granola.jpg"
       caption: "Granola van de Drukkefitmama op Instagram (fineliner en waterverf in schetsboekje)"
     -
-      image: "uploads/meloen.jpg"
+      image: "/uploads/meloen.jpg"
       caption: "Meloen in de zomer (fineliner en waterverf in schetsboekje)"
      
 -
