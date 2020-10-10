@@ -12,5 +12,17 @@
     </figure>
     {% endif %}
     {{ content}}
+<div class="row">
+    <div class="col-md-6 text-left">
+        {% if page.previous%}
+        <a class="btn btn-outline-dark btn-sm" href="{{ page.previous.path }}"><i class="fas fa-chevron-left"></i> {{ page.previous.title }}</a>
+        {% endif %}
+    </div>
+    <div class="col-md-6 text-right">
+        {% if page.previous%}
+        <a class="btn btn-outline-dark btn-sm" href="{{ page.next.path }}">{{ page.next.title }} <i class="fas fa-chevron-right"></i></a>
+        {% endif %}
+    </div>
+</div>
 </div>
 {% include page-footer.html %}

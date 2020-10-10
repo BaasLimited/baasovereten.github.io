@@ -1,0 +1,18 @@
+---
+title: "Baas over Eten"
+permalink: /archief
+---
+<h1>Archief</h1>
+{% for post in site.posts %}
+{% assign currentdate = post.date | date: "%B %Y" %}
+{% assign currentMonth = post.date | date: "%m" | minus: 1 %}
+{% assign currentYear = post.date | date: "%Y" %}
+{% if currentdate != date %}
+{% unless forloop.first %}</ul>{% endunless %}
+<h2 id="my{{post.date | date: "%B %Y"}}">{{ site.data.nl.months[currentMonth] }} {{ currentYear }}</h2>
+<ul>
+    {% assign date = currentdate %}
+    {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

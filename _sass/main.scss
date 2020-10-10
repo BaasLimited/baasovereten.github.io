@@ -1,13 +1,3 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-
-body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
-}
-
 @font-face {
   font-family: "source-serif-pro-black";
   src: url("/assets/fonts/source-serif-pro/SourceSerifPro-Black.otf");
@@ -18,16 +8,32 @@ body {
   src: url("/assets/fonts/roboto-condensed/RobotoCondensed-Bold.ttf");
 }
 
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$headings-font-family: source-serif-pro-black;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+$theme-colors: (
+  "primary": black,
+  "danger": #ff4136
+);
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: source-serif-pro-black;
-  a {
+  //font-family: source-serif-pro-black;
+  /*a {
     color:$bodyColor;
   }
   a:hover {
     color:$bodyColor;
     text-decoration:none;
     border-bottom:2px solid $bodyColor;
-  }
+  }*/
 }
 
 @media (max-width: 1200px) {
@@ -125,24 +131,14 @@ body {
 .content {
   flex: 1 0 auto;
 }
-.my-content {
-  a {
-    color:$bodyColor;
-  }
-  a:hover {
-    color:$bodyColor;
-    text-decoration:none;
-    border-bottom:2px solid $bodyColor;
-  }
-}
 
-.content .contact-social-link,
+/*.content .contact-social-link,
 .content .contact-social-link:hover,
 .carousel-control-prev:hover,
 .carousel-control-next:hover {
   border:none!important;
   text-decoration: none!important;
-}
+}*/
 
 .gallery-closed-item img {
   cursor:pointer;

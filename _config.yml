@@ -27,6 +27,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 sass:
   style: compressed
+  sass_dir: _sass
 defaults:
   -
     scope:
@@ -47,11 +48,27 @@ defaults:
     values:
       layout: "page-wide"
 
+jekyll-archives:
+  enabled: all
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    category: category-archive
+    tag: tag-archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
