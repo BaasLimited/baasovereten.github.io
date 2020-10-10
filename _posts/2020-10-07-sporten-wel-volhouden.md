@@ -15,13 +15,13 @@ In mijn eerdere blog met tips om meer te bewegen schreef ik al wat de bewegingsr
 
 Meer bewegen is altijd goed, ook als je het je niet lukt om drie keer in de week intensief te bewegen. Elke keer als je iets doet, dan zorg je voor je zelf! Dus wees niet teleurgesteld als het "maar" twee keer per week lukt, of een keer in de week. Geef jezelf complimenten en schouderklopjes voor elke keer dat je bent geweest.
 
-{% include image.html url="/uploads/Yoga.jpg" description="Yoga. Downward Dog (vulpen op post-it)" %}
+{% include image.html url="/uploads/yoga.jpg" description="Yoga. Downward Dog (vulpen op post-it)" %}
 
 **2. Je hoeft niet tot het gaatje te gaan**
 
 Iedereen die wel eens sport weet wat het lastigste is: van de bank afkomen en gaan. Als je niet aan het trainen bent voor een nieuw Nederlands record maakt het vervolgens niet zoveel uit hoe je prestatie is. Wil je je hardlooprondje van 5 kilometer in 30 minuten lopen, maar heb je er 37 minuten over gedaan? Baal je hiervan? Zeker niet doen! Het feit dat je bent gaan sporten maakt al het verschil voor je lijf. Niet of je net wat sneller of langzamer was. Je hebt je gezondheid voorrang gegeven op andere dingen en dat is knap. Je conditie en uithoudingsvermogen verschillen nou eenmaal van dag tot dag. Je kan niet elke dag presteren. Soms is het gewoon doen al ruim voldoende. Prestatiedrang kan natuurlijk motiveren. Maar merk je dat het je niet helpt en dat je daardoor niet van de bank komt ("Vandaag lukt het toch niet"), hou hier dan simpelweg mee op. 
 
-{% include image.html url="/uploads/Gewichten.jpg" description="Gewichtheffen (vulpen op post-it)" %}
+{% include image.html url="/uploads/gewichten.jpg" description="Gewichtheffen (vulpen op post-it)" %}
 
 **3. Maak je rondje af, desnoods als een slak!**
 
@@ -37,7 +37,7 @@ In plaats van door beuken (en daarna weken niet meer gaan omdat het verschrikkel
 Als je (nog) niet sportief bent, sport dan met een hartslagmeter om. Het is nog lastig om aan te voelen hoe hard je kan gaan als je het niet gewend bent. We hebben meestal de neiging om teveel van onszelf te vragen, of we zijn juist te voorzichtig. Bedenk wat voor training je wilt doen en wat je targethartslag is en ga daarop bewegen. De ene dag kan je enorm veel, de andere dag zit je er na twee stappen op. Maf maar waar. 
 Er bestaan veel websites om je hartslagzones te berekenen. Belangrijke factor daarbij is je leeftijd. Ik vind het zelf wat overrated. Ik merk dat ik lekker loop als mijn hartslag rond de 150-160 ligt. Dan daag ik mezelf uit zonder over het randje te gaan. Wat mij betreft een kwestie van proberen!
 
-{% include image.html url="/uploads/Rennen.jpg" description="Hardlopen (vulpen op post-it)" %}
+{% include image.html url="/uploads/rennen.jpg" description="Hardlopen (vulpen op post-it)" %}
 
 **5. Doe een leuke sport**
 
