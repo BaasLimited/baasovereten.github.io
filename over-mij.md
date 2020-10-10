@@ -14,10 +14,13 @@ Na de geboorte van mijn lieve dochter is er een interesse bij gekomen: gezond et
 De interesse in gezond eten en bewegen blijft. De coronacrisis heeft me zelfs de tijd gegund om een opleiding tot voedingsconsulent te starten naast mijn werk. "Wat ga je met de opleiding doen?" Dit is me vaak gevraagd. Ik weet het niet. Ik ben niet van plan om voedingsconsulent te worden. Mijn nieuwe kennis kunnen delen met de wereld lijkt me wel wat...zonde anders. Daar is het idee voor deze website geboren. Nu kan ik mijn inzichten over coaching, gezond leven en wat ik verder nog boeiend vind delen met wie het lezen wil. Wie weet, misschien dat iemand er ooit eens iets aan heeft.
 
 
+
 PS. Oh ja, alle tekeningen op de website zijn zelf gemaakt
 
 
+
 #gezondheid #rekenen #cijfertjes #vega #tekenen #waterverven #inspiratie #vrijleven #doenwatjewilt 
+
 
 
 ___
