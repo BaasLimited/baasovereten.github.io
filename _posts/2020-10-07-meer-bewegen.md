@@ -3,7 +3,7 @@ title:      "Meer bewegen... #hoedan?"
 date:       2020-10-07 12:00:00 +0200
 tag:        "Over bewegen"
 category:   "over-bewegen"
-image:      /uploads/Fiets.jpg
+image:      /uploads/fiets.jpg
 caption:    "Fiets (Fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
 published:  true
@@ -36,7 +36,7 @@ Je beweegt op een gegeven moment op de automatische piloot en het is niet bijzon
 
 Pak de trap in plaats van de lift. Moet je naar verdieping vijf of hoger? En vind je dat nog wat teveel van het goede? Loop dan naar de derde verdieping en pak de lift voor de laatste paar verdiepingen. Je hebt zo toch weer flink wat treden meegepakt. Als je geen sporter bent, is de trap oplopen best vermoeiend (je meent het ;)). Sommige mensen vinden dat rode hoofd en dat hijgen gênant en nemen daarom de lift. Doe dit niet, maar pas je tempo aan. Ga lekker langzaam omhoog. Het lijkt alsof het veel tijd kost, maar het valt mee. Wachten op de lift kost ook tijd. Ongemerkt gaat elke dag het traplopen makkelijker en voor je het weet ren je als een ware gazelle naar boven!
 
-{% include image.html url="/uploads/Herfst3.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/herfst.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
 
 ## Neem de fiets
 
