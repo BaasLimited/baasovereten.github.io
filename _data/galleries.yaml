@@ -1,15 +1,68 @@
 -
-  id: 'pentekeningen'
-  title: "Pentekeningen"
-  description: "Deze tekeningen zijn gemaakt met de pen"
+  id: 'eten'
+  title: "Tekeningen en schilderijen van eten"
+  description: "Deze tekeningen zijn gemaakt voor dit blog. Eten geeft veel inspiratie door de mooie kleuren."
   items:
+    - 
+      image: "/uploads/sugarsnaps.jpg"
+      caption: "Sugarsnaps op een stapeltje - fineliner en waterverf in schetsboekje"
     -
-      image: "/uploads/Fiets.jpg"
-      caption: "test 2"
+      image: "/uploads/eitjes.jpg"
+      caption: "Eieren - fineliner en waterverf in schetsboekje"
     -
-      image: "/uploads/Herfst3.jpg"
-      caption: "test 1"
-     
+      image: "/uploads/eitje.jpg"
+      caption: "Ei in eierdop - fineliner en waterverf in schetsboekje"
+    -
+      image: "/uploads/boterham-waterverf.jpg"
+      caption: "Volkoren Waldkorn boterham - fineliner en waterverf in schetsboekje"
+    -  
+      image: "/uploads/prei.jpg"
+      caption: "Oude prei - fineliner en waterverf in schetsboekje"
+    -  
+      image: "/uploads/prie2.jpg"
+      caption: "Oude prei in de keuken - fineliner en waterverf in schetsboekje"
+    -  
+      image: "/uploads/tomaten.jpg"
+      caption: "Trostomaten - houtskool in schetsboekje"
+    - 
+      image: "/uploads/tomaten-kleur.jpg"
+      caption: "Trostomaten nu met rode blos - houtskool en pastelkrijtjes in schetsboekje" 
+    -
+      image: "/uploads/donut.jpg"
+      caption: "Donut - fineliner en waterverf in schetsboekje"
+    -
+      image: "/uploads/tompoes.jpg"
+      caption: "Hema tompoes - fineliner en waterverf in schetsboekje"
+    -
+      image: "/uploads/aubergine.jpg" 
+      caption: "Aubergine in oude meesterstijl - acrylverf op papier"       
+    -
+      image: "/uploads/boterham.jpg"
+      caption: "Boterham - houtskool in schetsboekje"
+    -
+      image: "/uploads/banaan.jpg"
+      caption: "Banaan - fineliner en waterverf in schetsboekje"
+    - 
+      image: "/uploads/avocado.jpg"
+      caption: "Avocado - fineliner en waterverf in schetsboekje" 
+    -
+      image: "/uploads/appel.jpg" 
+      caption: "Appel - fineliner en kleurpotlood in schetsboekje"
+    - 
+      image: "uploads/aardbei.jpg" 
+      caption: "Aardbei - fineliner en waterverf in schetsboekje" 
+    - 
+      image: "uploads/kersen.jpg"
+      caption: "Kersen - fineliner en waterverf in schetsboekje"
+    -
+      image: "uploads/balpen-vliegende-appel.jpg"
+      caption: "Het verhaal van de vliegende appel - doodle van balpen op kladpapiertje" 
+    -
+      image: "uploads/granola.jpg"
+      caption: "Granola van de Drukkefitmama op Instagram - fineliner en waterverf Meloen in de zomer - in schetsboekje"
+    -
+      image: "uploads/meloen.jpg"
+      caption: "Meloen in de zomer - fineliner en waterverf in schetsboekje"
      
 -
   id: 'waterverfeten'
