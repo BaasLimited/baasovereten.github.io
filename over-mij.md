@@ -22,6 +22,6 @@ PS. Oh ja, alle tekeningen op de website zijn zelf gemaakt
 
 ___
 
-** Als ik al enige deskundigheid heb, dan is die gebaseerd op hoe weinig ik weet - _Socrates_**
+##### Als ik al enige deskundigheid heb, dan is die gebaseerd op hoe weinig ik weet - _Socrates_
 
 ___
