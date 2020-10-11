@@ -27,7 +27,7 @@ Nou wat ben ik enthousiast over dit recept. Een heerlijk soepje. Lekker zoet en 
 
 ### Worteltapenade
 
-Deze is heerlijk! Ik vind deze heel lekker om op brood te doen. Veel kant-en-klare spreads bevatten teveel verzadigd vet, zout of suiker om gezond te zijn. Daarom ben ik zelf groentespreads voor op brood gaan maken, waaronder deze worteltapenade. Je kan hem ook gebruiken voor een gezonde aanvulling bij een borrel of lekker door een salade in plaats van een dressing. 
+Deze is heerlijk! Ik vind deze heel lekker om op brood te doen. Veel kant-en-klare spreads bevatten teveel verzadigd vet, zout of suiker om gezond te zijn. Daarom ben ik zelf groentespreads voor op brood gaan maken, waaronder deze worteltapenade. Je kan hem ook gebruiken voor een gezonde aanvulling bij een borrel of lekker door een salade in plaats van een dressing. Ik heb de tapenade met cottagecheese gemaakt in plaats van ricotta. Minder vet en net zo lekker! Past nu perfect in een dieet. 
 
 [Hier kan je de worteltapenade vinden.](https://weckenonline.eu/recepten/worteltapenade/)
 
