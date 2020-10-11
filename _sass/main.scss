@@ -182,3 +182,12 @@ body {
 .gallery-closed-item {
   align-self: center;
 }
+
+.my-content p a {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+}
+
+.my-content p a:hover {
+  text-decoration-style: solid;
+}
