@@ -1,11 +1,4 @@
-{% if page.tag %}
-    {% assign tags = [page.tag] %}
-{% endif %}
-{% if page.tags.first %}
-    {% assign tags = page.tags %}
-{% endif %}
-
-{% for tag in tags %}
+{% for tag in page.tags %}
     {% assign num_related = site.tags[tag] | size %}
     {% if num_related > 1 %}
     <div class="row">

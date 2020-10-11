@@ -14,9 +14,6 @@ permalink: /
     </div>
     <div class="col-md-6 align-self-center">
         <span class="post-tag">{{ post_tag }}</span>
-        {% if site.posts.first.tag %}
-            <span class="post-tag">{{ site.posts.first.tag }}</span>
-        {% endif %}
         {% if site.posts.first.tags.first %}
             <span class="post-tag">{{ site.posts.first.tags.first }}</span>
         {% endif %}
