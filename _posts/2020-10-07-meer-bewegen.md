@@ -1,7 +1,7 @@
 ---
 title:      "Meer bewegen... #hoedan?"
 date:       2020-10-07 12:00:00 +0200
-tag:        "Over bewegen"
+tags:       ["Over bewegen", "Over afvallen"]
 category:   "over-bewegen"
 image:      /uploads/fiets.jpg
 caption:    "Fiets (Fineliner in schetsboekje)"
