@@ -140,13 +140,22 @@ body {
     display:         flex;
   }
 
-  .my-list-image {
+  .home-post .my-list-image {
     height: 258px;
     display: flex;
   }
 
-  .my-list-image img {
+  .home-post .my-list-image img {
     max-height: 248px;
+  }
+
+  .related-post .my-list-image {
+    height: 161px;
+    display: flex;
+  }
+
+  .related-post .my-list-image img {
+    max-height: 151px;
   }
 }
 .content blockquote {
