@@ -1,7 +1,7 @@
 ---
 title:      "Hét geheim om sporten wel vol te houden"
 date:       2020-10-07 13:00:00 +0200
-tag:        "Over sporten"
+tags:       ["Over sporten", "Over bewegen", "Over afvallen"]
 category:   "over-sporten"
 image:      /uploads/hardlopen.jpg
 caption:    "Hardlopen in de stad (waterverf en fineliner in schetsboekje)"
