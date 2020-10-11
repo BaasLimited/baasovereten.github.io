@@ -33,7 +33,7 @@ Deze is heerlijk! Ik vind deze heel lekker om op brood te doen. Veel kant-en-kla
 
 {% include image.html url="/uploads/konijn.jpg" description="Konijn: waar zijn die wortels nou? (waterverf en fineliner in schetsboekje)" %}
 
-### wortelsalade met rozijnen
+### Wortelsalade met rozijnen
 
 Bij mijn lunch maak ik vaak een kleine salade. Als je deze gezond maakt, dan zitten er haast geen calorieen in. Je krijgt meer vitaminen binnen en waarom ik het eigenlijk ook doe: ik ben wat langer aan het eten. De twee boterhammen die ik eet zijn zo weg en dan wil ik toch nog lekker wat eten. Nou bijvoorbeeld deze lekkere wortelsalade. Ik doe trouwens altijd veel minder olie en azijn erin. Net zo lekker en goed tijdens het afvallen!
 
