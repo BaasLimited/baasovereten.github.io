@@ -1,7 +1,7 @@
 ---
 title:      "Worteltastisch"
 date:       2020-10-11 18:00:00 +0200
-tags:       ["Over eten", "Over afvallen", "Over tekenen"]
+tags:       ["Over eten", "Over afvallen"]
 category:   "over-eten"
 image:      /uploads/wortelen.jpg
 caption:    "Zak met wortelen (waterverf en fineliner in schetsboekje)"
