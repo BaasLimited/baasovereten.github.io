@@ -1,7 +1,7 @@
 ---
 title:      "Plaatjes van eten in waterverf"
 date:       2020-10-09 08:00:00 +0200
-tag:        "Over waterverf"
+tag:        "Over tekenen"
 category:   "over-waterverf"
 image:      /uploads/appel.jpg
 caption:    "Appel (kleurpotlood en fineliner in schetsboekje)"
