@@ -14,9 +14,9 @@
             <div class="row mt-3">
             {% for post in site.tags[tag] %}
                 {% if post.url<>page.url %}
-                <div class="col-md-6 col-lg-4 col-sm-12 related-post">
+                <div class="col-md-6 col-lg-4 col-sm-12 related-post mb-3">
                     <div class="row">
-                        <div class="col-md-12 d-none d-sm-block mb-1">
+                        <div class="col-md-12 mb-1">
                             <div class="my-list-image justify-content-center border p-1">
                                 {% if post.image!='' %}
                                 <a href="{{ post.url }}" class="align-self-center">
@@ -27,18 +27,6 @@
                         </div>
                         <div class="col-md-12">
                             <a class="font-weight-bold" href="{{ post.url }}">{{ post.title }}</a>
-                            <p>
-                                {% if post.image!='' %}
-                                <span class="d-block d-sm-none">
-                                <a href="{{ post.url }}">
-                                    <img src="{{ post.image }}" class="img-fluid w-50 float-left pr-3" alt="{{ post.caption }}">
-                                </a>
-                                </span>
-                                {% endif %}
-                            </p>
-                        </div>
-                        <div class="col-md-12 d-sm-block d-md-none d-lg-none mb-3">
-                            <hr />
                         </div>
                     </div>
                 </div>
