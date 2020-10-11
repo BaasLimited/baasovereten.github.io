@@ -24,18 +24,6 @@ body {
   font-family: $bodyFont;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  //font-family: source-serif-pro-black;
-  /*a {
-    color:$bodyColor;
-  }
-  a:hover {
-    color:$bodyColor;
-    text-decoration:none;
-    border-bottom:2px solid $bodyColor;
-  }*/
-}
-
 @media (max-width: 1200px) {
   legend {
     font-size: calc(1.275rem + 0.3vw);
@@ -132,14 +120,6 @@ body {
   flex: 1 0 auto;
 }
 
-/*.content .contact-social-link,
-.content .contact-social-link:hover,
-.carousel-control-prev:hover,
-.carousel-control-next:hover {
-  border:none!important;
-  text-decoration: none!important;
-}*/
-
 .gallery-closed-item img {
   cursor:pointer;
   cursor:hand;
@@ -151,6 +131,22 @@ body {
   }
   .carousel-control-next {
     right:-90px;
+  }
+
+  .row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+  }
+
+  .my-list-image {
+    height: 258px;
+    display: flex;
+  }
+
+  .my-list-image img {
+    max-height: 248px;
   }
 }
 .content blockquote {
@@ -172,4 +168,8 @@ body {
 
 .my-gallery .modal-dialog {
   max-width: 750px;
+}
+
+.gallery-closed-item {
+  align-self: center;
 }

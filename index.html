@@ -19,7 +19,7 @@ permalink: /
         <p>{{ site.posts.first.excerpt }}</p>
     </div>
 </div>
-<div class="row mt-3">
+<div class="row mt-3 row-eq-height">
     {% for post in site.posts offset:1 limit:3 %}
     <div class="col-md-4 col-sm-12 home-post">
         <div class="row">
@@ -27,11 +27,13 @@ permalink: /
                 <hr />
             </div>
             <div class="col-md-12 d-none d-sm-block pb-3">
-                {% if post.image!='' %}
-                <a href="{{ post.url }}">
-                    <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
-                </a>
-                {% endif %}
+                <div class="my-list-image justify-content-center">
+                    {% if post.image!='' %}
+                    <a href="{{ post.url }}" class="align-self-center">
+                        <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
+                    </a>
+                    {% endif %}
+                </div>
             </div>
             <div class="col-md-12">
                 <h4><a href="{{ post.url }}">{{ post.title }}{{post.index}}</a></h4>
