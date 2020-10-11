@@ -3,12 +3,14 @@ title: "Baas over Eten"
 permalink: /
 ---
 <div class="row">
-    <div class="col-md-6 mb-3">
+    <div class="col-md-6 mb-3 home-first-post">
+        <div class="home-first-post-image justify-content-center">
         {% if site.posts.first.image!='' %}
         <a href="{{ site.posts.first.url }}">
             <img src="{{ site.posts.first.image }}" class="img-fluid" alt="{{ site.posts.first.caption }}">
         </a>
         {% endif %}
+        </div>
     </div>
     <div class="col-md-6 align-self-center">
         <span class="post-tag">{{ post_tag }}</span>

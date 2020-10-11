@@ -140,6 +140,17 @@ body {
     display:         flex;
   }
 
+  .home-first-post-image {
+    height: 383px;
+    display: flex;
+    overflow:hidden;
+    background-color: #fafaf6
+  }
+
+  .home-first-post-image img {
+    max-height:383px;
+  }
+
   .home-post .my-list-image {
     height: 258px;
     display: flex;
