@@ -12,17 +12,6 @@
     </figure>
     {% endif %}
     {{ content}}
-<div class="row">
-    <div class="col-6 text-left">
-        {% if page.next %}
-        <a class="btn btn-outline-dark btn-sm" href="{{ page.next.url }}"><i class="fas fa-chevron-left"></i> Vorige</a>
-        {% endif %}
-    </div>
-    <div class="col-6 text-right">
-        {% if page.previous %}
-        <a class="btn btn-outline-dark btn-sm" href="{{ page.previous.url }}">Volgende <i class="fas fa-chevron-right"></i></a>
-        {% endif %}
-    </div>
-</div>
+    {% include post-prev-next.html %}
 </div>
 {% include page-footer.html %}
