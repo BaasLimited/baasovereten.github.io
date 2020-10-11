@@ -3,8 +3,8 @@ title:      "Niet van élke koolhydraat word je dik"
 date:       2020-10-07 19:00:00 +0200
 tag:        "Over afvallen"
 category:   "over-afvallen"
-image:      /uploads/boterham.jpg
-caption:    "Volkoren Waldkorn boterham (Houtskool in schetsboekje)"
+image:      /uploads/boterham-waterverf.jpg
+caption:    "Volkoren Waldkorn boterham (Waterverf en fineliner in schetsboekje)"
 excerpt:    "Het geheim achter afvallen? Als je Instagram moet geloven is de heilige graal het weren van koolhydraten. Maar pas op dat je niet gaat discrimineren. Sommige koolhydraten zijn wel degelijk heel gezond en absoluut niet dikmakend!"
 published:  true
 ---
