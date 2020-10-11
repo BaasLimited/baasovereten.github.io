@@ -1,7 +1,7 @@
 ---
 title:      "Plaatjes van eten"
 date:       2020-10-09 18:00:00 +0200
-tag:        "Over tekenen"
+tags:       ["Over tekenen","Over waterverf"]
 category:   "over-tekenen"
 image:      /uploads/sugarsnaps.jpg
 caption:    "Sugarsnaps (waterverf en fineliner in schetsboekje)"
