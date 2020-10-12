@@ -27,3 +27,15 @@ for (let i = 0; i < mcs.length; i++) {
         }
     }
 }
+
+$(document).ready(function(){
+    const colorThief = new ColorThief();
+    $('.bg-of-image').each(function(i, el){
+        const img = $(el).find('img')[0];
+        if (img) {
+            const bg = colorThief.getColor(img);
+            const col = bg.join(', ');
+            $(el).css('background-color', 'rgba(' + bg.join(',') + ', 0.5)');
+        }
+    });
+});

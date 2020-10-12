@@ -4,7 +4,7 @@ permalink: /
 ---
 <div class="row">
     <div class="col-md-6 mb-3 home-first-post">
-        <div class="home-first-post-image justify-content-center">
+        <div class="home-first-post-image justify-content-center bg-of-image">
         {% if site.posts.first.image!='' %}
         <a href="{{ site.posts.first.url }}">
             <img src="{{ site.posts.first.image }}" class="img-fluid" alt="{{ site.posts.first.caption }}">
@@ -31,7 +31,7 @@ permalink: /
                 <hr />
             </div>
             <div class="col-md-12 d-none d-sm-block pb-3">
-                <div class="my-list-image justify-content-center">
+                <div class="my-list-image bg-of-image justify-content-center">
                     {% if post.image!='' %}
                     <a href="{{ post.url }}" class="align-self-center">
                         <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
