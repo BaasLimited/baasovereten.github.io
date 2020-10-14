@@ -1,8 +1,10 @@
 - type: twitter
-  uri: https://twitter.com/BaasEten
+  uri: https://twitter.com/BaasOver
 - type: instagram
   uri: https://www.instagram.com/baas_over
 - type: pinterest
   uri: https://nl.pinterest.com/renske_baas
 - type: linkedin
   uri: https://www.linkedin.com/in/renske-kok-68a9998/
+- type: tumbler
+  uri: baaover.tumbler.com
