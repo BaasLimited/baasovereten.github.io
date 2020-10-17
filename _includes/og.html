@@ -4,11 +4,11 @@
 {% endif %}
 <meta property="og:title" content="{{ page.title }}"/>
 <meta property="og:type" content="article"/>
-{% if page.layout=='post' || page.layout=='gallery-post' %}
-{% if page.caption!='' %}
-<meta property="og:image:alt" content="{{ page.caption }}" />
-{% endif %}
+{% if page.layout=='post' or page.layout=='gallery-post' %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
+    {% if page.caption!='' %}
+<meta property="og:image:alt" content="{{ page.caption }}" />
+    {% endif %}
 {% else %}
     {% if site.posts.first %}
 <meta property="og:image:alt" content="{{ site.posts.first.caption }}" />
