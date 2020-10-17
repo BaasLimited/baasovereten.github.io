@@ -202,3 +202,47 @@ body {
 .my-content p a:hover {
   text-decoration-style: solid;
 }
+
+.social-share {
+  .btn-share {
+    color:white;
+    border-radius:20px;
+    display:inline-block;
+    width:40px;
+    line-height:40px;
+    height:40px;
+    font-size:20px;
+    text-align:center;
+    vertical-align: top;
+    :hover {
+      font-size:22px;
+    }
+  }
+  .btn-whatsapp {
+    background-color: #00e676;
+  }
+  .btn-telegram {
+    background-color: #54a9eb;
+  }
+  .btn-facebook {
+    background-color:#4460ae;
+  }
+  .btn-twitter {
+    background-color:#3cf;
+  }
+  .btn-pinterest {
+    background-color:#e60023;
+  }
+  .btn-linkedin {
+    background-color:#0373b4;
+  }
+  .btn-gplus {
+    background-color:#c21f25;
+  }
+  .btn-instagram {
+    background-color:#cd4378;
+  }
+  .btn-pocket {
+    background-color:#f04056;
+  }
+}

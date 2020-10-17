@@ -1,0 +1,15 @@
+<meta property="og:site_name" content="{{ site.title }}"/>
+{% if page.excerpt!='' %}
+<meta property="og:description" content="{{ page.excerpt }}"/>
+{% endif %}
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:type" content="article"/>
+{% if page.layout=='post' || page.layout=='gallery-post' %}
+<meta property="og:image:alt" content="{{ page.caption }}" />
+<meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
+{% else %}
+    {% if site.posts.first %}
+<meta property="og:image:alt" content="{{ site.posts.first.caption }}" />
+<meta property="og:image" content="{{ site.url }}{{ site.posts.first.image }}"/>
+    {% endif %}
+{% endif %}

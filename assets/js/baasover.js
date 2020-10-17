@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
 
     // Open links in .my-content paragraphs in a new window
-    $('.my-content p a').each(function(i, el){
+    $('.my-content p a, .social-share a.btn-share').each(function(i, el){
         if (!$(el).hasClass('no-new-window')) {
             el.onclick = function () {
                 window.open(this.href);
