@@ -4,7 +4,8 @@
     <a class="btn-share btn-facebook mr-1" href="https://www.facebook.com/sharer.php?u={{ site.url}}{{ page.url }}"><i class="fab fa-facebook"></i></a>
     <a class="btn-share btn-twitter mr-1" href="https://twitter.com/share?url={{ site.url}}{{ page.url }}&text={{ page.title }}&via=baasover"><i class="fab fa-twitter"></i></a>
     <a class="btn-share btn-linkedin mr-1" href="https://www.linkedin.com/shareArticle?url={{ site.url}}{{ page.url }}&title={{ page.title }}"><i class="fab fa-linkedin-in"></i></a>
-    <a class="btn-share btn-whatsapp mr-1" href="https://api.whatsapp.com/send?text={{ page.title }} {{ site.url}}{{ page.url }}"><i class="fab fa-whatsapp"></i></a>
+    <a class="btn-share btn-whatsapp mr-1 d-none d-sm-inline-block" href="https://api.whatsapp.com/send?text={{ page.title }} {{ site.url}}{{ page.url }}"><i class="fab fa-whatsapp"></i></a>
+    <a class="btn-share btn-whatsapp mr-1 d-inline-block d-sm-none" href="whatsapp://send?text={{ page.title }} {{ site.url}}{{ page.url }}"><i class="fab fa-whatsapp"></i></a>
     <a class="btn-share btn-telegram mr-1" href="https://t.me/share/url?url={{ site.url}}{{ page.url }}&text={{ page.title }}"><i class="fab fa-telegram-plane"></i></a>
 </div>
 {% endif %}
