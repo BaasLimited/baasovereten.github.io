@@ -124,8 +124,8 @@
     image: "/uploads/yoga.jpg"
     caption: "Ondersteboven hond (vulpen op post-it)"
 -
-  id: 'waterverfeten'
-  title: "Schetsen van eten met waterverf"
+  id: 'waterverf'
+  title: "Waterverf werk"
   description: "Deze tekeningen zijn gemaakt met waterverf en fineliner"
   items:
     -
