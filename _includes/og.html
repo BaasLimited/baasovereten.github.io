@@ -5,7 +5,9 @@
 <meta property="og:title" content="{{ page.title }}"/>
 <meta property="og:type" content="article"/>
 {% if page.layout=='post' || page.layout=='gallery-post' %}
+{% if page.caption!='' %}
 <meta property="og:image:alt" content="{{ page.caption }}" />
+{% endif %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
 {% else %}
     {% if site.posts.first %}
