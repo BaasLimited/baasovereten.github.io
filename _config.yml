@@ -21,10 +21,8 @@
 title: Baas over ...
 email: renske@baasmail.nl
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://baasover.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 sass:
   style: compressed
   sass_dir: _sass
