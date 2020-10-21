@@ -15,6 +15,16 @@
     -
       image: "/uploads/aubergine.jpg"
       caption: "Aubergine in de oude meesterstijl (acrylverf op papier)"
+ -
+      image: "/uploads/abstract-roze.jpg"
+      caption: "Abstracte vlakken met roze en goud (acrylverf op papier)"
+-
+      image: "/uploads/boom-zw.jpg"
+      caption: "Simpele maar effectieve boom met zwarte acryl (acrylverf op papier)"
+-
+      image: "/uploads/huisje-acryl.jpg"
+      caption: "Impressionistisch-achtig huisje tussen bergen (acrylverf op papier)"
+      
   
 -
   id: 'eten'
