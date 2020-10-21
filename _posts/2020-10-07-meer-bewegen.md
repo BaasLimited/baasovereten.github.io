@@ -1,6 +1,6 @@
 ---
 title:      "Meer bewegen... #hoedan?"
-date:       2020-10-07 12:00:00 +0200
+date:       2020-10-21 9:00:00 +0200
 tags:       ["Over bewegen", "Over afvallen"]
 category:   "over-bewegen"
 image:      /uploads/fiets.jpg
