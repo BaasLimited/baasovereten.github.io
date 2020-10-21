@@ -1,6 +1,6 @@
 ---
 title:      "Traktaties: Respectvol nee zeggen"
-date:       2020-10-04 14:00:00 +0200
+date:       2020-10-21 11:00:00 +0200
 tag:        "Over afvallen"
 category:   "over-afvallen"
 image:      /uploads/tompoes.jpg
