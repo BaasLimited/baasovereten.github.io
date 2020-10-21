@@ -1,6 +1,6 @@
 ---
 title:      "Waterverf werk"
-date:       2020-10-09 08:00:00 +0200
+date:       2020-10-06 08:00:00 +0200
 tags:       ["Over waterverf", "Over tekenen"]
 category:   "over-waterverf"
 image:      /uploads/vogel.jpg
