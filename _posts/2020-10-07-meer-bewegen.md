@@ -6,7 +6,7 @@ category:   "over-bewegen"
 image:      /uploads/fiets.jpg
 caption:    "Fiets (Fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
-published:  false
+published:  true
 ---
 
 Om af te vallen of op gewicht te blijven is beweging belangrijk. Logisch. Om te zorgen dat je niet aan komt moet je minimaal even veel calorieën verbranden als je binnen krijgt. Ook is het bekend dat je je door regelmatig bewegen fitter en beter voelt. Ook in je hoofd. Het kan ook ziektes, zoals hart- en vaatziektes voorkomen.
