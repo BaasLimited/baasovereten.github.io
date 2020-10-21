@@ -6,7 +6,7 @@ category:   "over-afvallen"
 image:      /uploads/boterham-waterverf.jpg
 caption:    "Volkoren Waldkorn boterham (Waterverf en fineliner in schetsboekje)"
 excerpt:    "Het geheim achter afvallen? Als je Instagram moet geloven is de heilige graal het weren van koolhydraten. Maar pas op dat je niet gaat discrimineren. Sommige koolhydraten zijn wel degelijk heel gezond en absoluut niet dikmakend!"
-published:  true
+published:  false
 ---
 
 Jarenlang zijn we blind geweest voor het slechte effect dat suiker op ons lichaam heeft. Het is bekend dat de suikerindustrie een grote lobby heeft. Zembla heeft hier jaren geleden al interessante uitzendingen over gemaakt. 
