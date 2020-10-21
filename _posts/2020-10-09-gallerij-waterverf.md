@@ -10,4 +10,4 @@ published:  true
 layout:     gallery-post
 ---
 
-{% include gallery.html id="waterverfeten" show_description=false %}
+{% include gallery.html id="waterverf" show_description=false %}
