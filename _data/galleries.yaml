@@ -21,24 +21,6 @@
   title: "Tekeningen en schilderijen van eten"
   description: "Deze tekeningen zijn gemaakt voor dit blog. Eten geeft veel inspiratie door de mooie kleuren."
   items:
-    - 
-      image: "/uploads/sugarsnaps.jpg"
-      caption: "Sugarsnaps op een stapeltje (fineliner en waterverf in schetsboekje)"
-    -
-      image: "/uploads/wortelen.jpg"
-      caption: "Een zak met wortelen (fineliner en waterverf in schetsboekje)"
-    -
-      image: "/uploads/eitjes.jpg"
-      caption: "Eieren (fineliner en waterverf in schetsboekje)"
-    -
-      image: "/uploads/eitje.jpg"
-      caption: "Ei in eierdop (fineliner en waterverf in schetsboekje)"
-    -
-      image: "/uploads/boterham-waterverf.jpg"
-      caption: "Volkoren Waldkorn boterham (fineliner en waterverf in schetsboekje)"
-    -  
-      image: "/uploads/prei.jpg"
-      caption: "Oude prei (fineliner en waterverf in schetsboekje)"
     -  
       image: "/uploads/prei2.jpg"
       caption: "Oude prei in de keuken (fineliner en waterverf in schetsboekje)"
@@ -84,6 +66,24 @@
     -
       image: "/uploads/meloen.jpg"
       caption: "Meloen in de zomer (fineliner en waterverf in schetsboekje)"
+        - 
+      image: "/uploads/sugarsnaps.jpg"
+      caption: "Sugarsnaps op een stapeltje (fineliner en waterverf in schetsboekje)"
+    -
+      image: "/uploads/wortelen.jpg"
+      caption: "Een zak met wortelen (fineliner en waterverf in schetsboekje)"
+    -
+      image: "/uploads/eitjes.jpg"
+      caption: "Eieren (fineliner en waterverf in schetsboekje)"
+    -
+      image: "/uploads/eitje.jpg"
+      caption: "Ei in eierdop (fineliner en waterverf in schetsboekje)"
+    -
+      image: "/uploads/boterham-waterverf.jpg"
+      caption: "Volkoren Waldkorn boterham (fineliner en waterverf in schetsboekje)"
+    -  
+      image: "/uploads/prei.jpg"
+      caption: "Oude prei (fineliner en waterverf in schetsboekje)"
 
 - 
   id: 'doodles'
