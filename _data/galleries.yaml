@@ -7,6 +7,9 @@
       image: "/uploads/droomlandschap.jpg"
       caption: "Droomlandschap geïnspireerd op een oude print uit de jaren 70 (acrylverf op papier)"
     -
+      image: "/uploads/konijn-acryl.jpg"
+      caption: "Konijntje in pastelkleuren (acrylverf op papier)"
+    -
       image: "/uploads/antartica.jpg"
       caption: "Ijskoud antartica (acrylverf op papier)"
     -
@@ -15,15 +18,18 @@
     -
       image: "/uploads/aubergine.jpg"
       caption: "Aubergine in de oude meesterstijl (acrylverf op papier)"
- -
+    -
       image: "/uploads/abstract-roze.jpg"
       caption: "Abstracte vlakken met roze en goud (acrylverf op papier)"
--
+    -
       image: "/uploads/boom-zw.jpg"
       caption: "Simpele maar effectieve boom met zwarte acryl (acrylverf op papier)"
--
+    -
       image: "/uploads/huisje-acryl.jpg"
       caption: "Impressionistisch-achtig huisje tussen bergen (acrylverf op papier)"
+    -
+      image: "/uploads/meisje.jpg"
+      caption: "Het verborgen meisje (acrylverf op papier)"
       
   
 -
