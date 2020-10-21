@@ -24,9 +24,9 @@ De beweegrichtlijnen van de Gezondheidsdraad raden het volgende aan (zie de webs
 
 Deze richtlijnen schrijven voor om veel te bewegen. Heel veel zelfs als je een druk leven hebt. Misschien heb je kinderen, of een drukke baan (of allebei). Hoe ga je dat dan in hemelsnaam halen? Het is eigenlijk niet realistisch.
 
-Ik geloof erin dat deze op de lange termijn beter werken werken dan alleen fanatiek sporten. Dit houden we namelijk meestal niet lang vol. Als je eenmaal gewend bent om in je dagelijks leven meer te bewegen, dan maak je het grootste verschil! De stap naar sporten wordt ook steeds kleiner.
-
 > Alle kleine beetjes helpen, dus probeer vooral in je normale leven het bewegen in te puzzelen
+
+Ik geloof erin dat deze op de lange termijn beter werken werken dan alleen fanatiek sporten. Dit houden we namelijk meestal niet lang vol. Als je eenmaal gewend bent om in je dagelijks leven meer te bewegen, dan maak je het grootste verschil! De stap naar sporten wordt ook steeds kleiner.
 
 {% include image.html url="/uploads/zomertijd.jpg" description="Zomertijd (Collage van papiertjes uit Flow Magazine)" %}
 
