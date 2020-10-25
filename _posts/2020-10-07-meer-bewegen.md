@@ -1,9 +1,9 @@
 ---
-title:      "Meer bewegen... #hoedan?"
+title:      "Meer bewegen... maar hoe dan?"
 date:       2020-10-21 9:00:00 +0200
 tags:       ["Over bewegen", "Over afvallen"]
 category:   "over-bewegen"
-image:      /uploads/fiets.jpg
+image:      /uploads/herfst.jpg
 caption:    "Fiets (Fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
 published:  true
