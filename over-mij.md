@@ -7,7 +7,7 @@ Ik ben algemeen- en gezondheidseconoom. Fan van cijfers. Je maakt me gelukkig me
 
 ![foto Renske Baas](/uploads/mijnfoto.jpg)
 
-Vaak wordt gedacht dat economie alleen over geld gaat. Economie is meer dan dat. Het is de studie van de schaarste. Centraal staat hoe we alles verdelen wat niet oneindig beschikbaar is. Bij berekeningen en toekomstverwachtingen wordt ons gedrag ingeschat. Dit vind ik interessant. Tijdens mijn studie economie was ik hier door geboeid, maar het boeit me ook nu. Nu in het dagelijks leven. Waarom doen we bepaalde dingen wel of juist niet? Bij mijn coachingsopleiding bij de School voor Coaching kon ik mijn hart ophalen. Ik heb de opleiding met plezier en succes afgerond. 
+Vaak wordt gedacht dat economie alleen over geld gaat. Economie is meer dan dat. Het is de studie van de schaarste. Centraal staat hoe we alles verdelen wat niet oneindig beschikbaar is. Bij berekeningen en toekomstverwachtingen van deze verdeling wordt ons gedrag ingeschat. Dit vind ik interessant. Tijdens mijn studie economie was ik hier door geboeid, maar het boeit me ook nu. Nu in het dagelijks leven. Waarom doen we bepaalde dingen wel of juist niet? Bij mijn coachingsopleiding bij de School voor Coaching kon ik mijn hart ophalen. Ik heb de opleiding met plezier en succes afgerond. 
 
 ___
 
