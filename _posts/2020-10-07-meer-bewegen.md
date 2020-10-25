@@ -3,8 +3,8 @@ title:      "Meer bewegen... maar hoe dan?"
 date:       2020-10-21 9:00:00 +0200
 tags:       ["Over bewegen", "Over afvallen"]
 category:   "over-bewegen"
-image:      /uploads/fietsen.jpg
-caption:    "Fiets (Fineliner in schetsboekje)"
+image:      /uploads/herfst.jpg
+caption:    "Ik en mijn kleine meid op een regenachtige dag in het park (Waterverf en fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite!"
 published:  true
 ---
@@ -36,7 +36,7 @@ Door dagelijk meer te bewegen, beweeg je op een gegeven moment op de automatisch
 
 Pak de trap in plaats van de lift. Nu met Corona is het sowieso geen goed idee om een lift in te stappen, maar dat terzijde. Als het corona technisch veilis is en moet je naar verdieping vijf of hoger? En vind je dat nog wat teveel van het goede? Loop dan naar de derde verdieping en pak de lift voor de laatste paar verdiepingen. Je hebt zo toch weer flink wat treden meegepakt. Als je geen sporter bent, is de trap oplopen best vermoeiend (je meent het ;)). Sommige mensen vinden dat rode hoofd en dat hijgen gênant en nemen daarom de lift. Doe dit niet, maar pas je tempo aan. Ga lekker langzaam omhoog. Het lijkt alsof het veel tijd kost, maar het valt mee. Wachten op de lift kost ook tijd. Ongemerkt gaat elke dag het traplopen makkelijker en voor je het weet ren je als een ware gazelle naar boven!
 
-{% include image.html url="/uploads/herfst.jpg" description="Ik en mijn kleine meid op een regenachtige dag in het park (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/fiets.jpg" description="Fiets (fineliner in schetsboekje)" %}
 
 ## Neem de fiets
 
