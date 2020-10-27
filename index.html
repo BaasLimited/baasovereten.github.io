@@ -20,7 +20,10 @@ permalink: /
         <h1>
             <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
         </h1>
-        <p>{{ site.posts.first.excerpt }}</p>
+        <p><a class="home-excerpt-link" href="{{ site.posts.first.url }}">{{ site.posts.first.excerpt }}</a></p>
+        <p class="text-right">
+            <a class="link-no-decoration btn btn-sm btn-primary" href="{{ site.posts.first.url }}">Lees verder <i class="fa fa-chevron-circle-right"></i></a>
+        </p>
     </div>
 </div>
 <div class="row mt-3 row-eq-height">
@@ -49,7 +52,10 @@ permalink: /
                     </a>
                     </span>
                     {% endif %}
-                    {{ post.excerpt }}
+                    <a class="home-excerpt-link" href="{{ post.url }}">{{ post.excerpt }}</a>
+                </p>
+                <p class="d-block d-sm-none text-right">
+                    <a class="link-no-decoration btn btn-sm btn-primary" href="{{ post.url }}">Lees verder <i class="fa fa-chevron-circle-right"></i></a>
                 </p>
             </div>
         </div>

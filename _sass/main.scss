@@ -199,6 +199,12 @@ body {
   text-decoration-style: dashed;
 }
 
+.my-content .home-excerpt-link,
+.link-no-decoration,
+.link-no-decoration:hover {
+  text-decoration: none!important;
+}
+
 .my-content p a:hover {
   text-decoration-style: solid;
 }
