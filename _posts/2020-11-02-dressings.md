@@ -3,7 +3,7 @@ title:      "Lekkere en gezonde dressings"
 date:       2020-11-02 14:00:00 +0200
 tags:       ["Over eten", "Over afvallen"]
 category:   "over-eten"
-image:      /uploads/aceto5.jpg
+image:      /uploads/aceto3.jpg
 caption:    "Aceto Balsamico (acrylverf op papier)"
 excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en in verhouding veel vitaminen en mineralen. Alle reden dus om vaak sla te eten. De smaakmaker van een salade is  de dressing. Daar gaat het makkelijk "fout". In deze post lees je tips om je salade lekker te maken zonder dat je teveel vet of suiker binnen krijgt!"
 published:  false
