@@ -1,6 +1,6 @@
 ---
 title:      "Lekkere en gezonde dressings"
-date:       2020-11-02 14:00:00 +0200
+date:       2020-11-02 14:00:00 +0100
 tags:       ["Over eten", "Over afvallen"]
 category:   "over-eten"
 image:      /uploads/aceto3.jpg
