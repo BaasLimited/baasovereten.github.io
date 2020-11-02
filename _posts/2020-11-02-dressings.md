@@ -5,7 +5,7 @@ tags:       ["Over afvallen", "Over eten"]
 category:   "over-eten"
 image:      /uploads/aceto3.jpg
 caption:    "Aceto Balsamico (acrylverf op papier)"
-excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en in verhouding veel vitaminen en mineralen. Alle reden dus om vaak sla te eten. De smaakmaker van een salade is  de dressing. Daar gaat het makkelijk 'fout'. In deze post lees je tips om je salade lekker te maken zonder dat je teveel vet of suiker binnen krijgt!"
+excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en in verhouding veel vitaminen en mineralen. Alle reden dus om vaak sla te eten. De smaakmaker van een salade is de dressing. Daar gaat het makkelijk 'fout'. In deze post lees je tips om je salade lekker te maken zonder dat je teveel vet of suiker binnen krijgt!"
 published:  true
 ---
 
