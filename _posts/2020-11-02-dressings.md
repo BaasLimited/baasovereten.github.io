@@ -1,7 +1,7 @@
 ---
 title:      "Lekkere en gezonde dressings"
 date:       2020-11-02 14:00:00 +0100
-tags:       ["Over eten", "Over afvallen"]
+tags:       ["Over afvallen", "Over eten"]
 category:   "over-eten"
 image:      /uploads/aceto3.jpg
 caption:    "Aceto Balsamico (acrylverf op papier)"
