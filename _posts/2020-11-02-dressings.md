@@ -9,6 +9,8 @@ excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en
 published:  true
 ---
 
+# Eerst even dit 
+
 Eerst even mijn frustratie kwijt. Sorry alvast. In de supermarkt is er geen kant en klare dressing te vinden die gezond is. In werkelijk alle soorten zit teveel vet, suiker of zout. Of allemaal! Trap niet in mooie labels met allerlei gezondheidsclaims. Als je op de voedingswaardetabel kijkt dan zie je waar ik het over heb. Het is frustrerend dat het ons niet makkelijk wordt gemaakt om gezond te eten. 
 
 # Zelf aan de slag
