@@ -1,6 +1,8 @@
 {% include page-header.html %}
 <div class="col-md-8 offset-md-2">
-    <span class="post-tag">{{ page.tag }}</span>
+    {% if page.tags.first %}
+    <span class="post-tag">{{ page.tags.first }}</span>
+    {% endif %}
     <h1>{{ page.title }}</h1>
     <p class="font-italic">{{ page.excerpt }}</p>
     {{ content}}
