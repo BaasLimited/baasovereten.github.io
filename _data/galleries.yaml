@@ -1,4 +1,25 @@
 - 
+  id: 'mensen' 
+  title: "Mensen blijven boeien" 
+  description: "Als kind tekende ik samen met mijn zus graag mensen. Dat doe ik nog steeds graag."
+  items:
+    - 
+      image: "/uploads/ans.jpg"
+      caption: "Ans lang geleden (potloodtekening)"
+    - 
+      image: "/uploads/meisje.jpg"
+      caption: "Meisje blijft binnen (acryl verf op canvas)"
+    - 
+      image: "/uploads/baas.jpeg"
+      caption: "Baas lekker aan het chillen op de bank (fineliner en softpastels in mijn grote schetsboek)"
+    - 
+      image: "/uploads/fietsen.jpg"
+      caption: "Man op de fies in Amsterdam (fineliner en waterverf in schetboekje)"
+    - 
+      image: "/uploads/meisje.jpg"
+      caption: "Meisje blijft binnen (acryl verf op canvas)"
+
+- 
   id: 'acryl' 
   title: "Schilderingen met acrylverf" 
   description: "Deze plaatjes zijn gemaakt met acrylverf. Dit is meer verven dan tekenen, wat voor de afwisseling best leuk is."
