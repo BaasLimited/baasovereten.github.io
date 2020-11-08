@@ -3,11 +3,14 @@ title:      "Lekkere en gezonde dressings"
 date:       2020-11-02 14:00:00 +0100
 tags:       ["Over afvallen", "Over eten"]
 category:   "over-eten"
-image:      /uploads/aceto3.jpg
-caption:    "Aceto Balsamico (acrylverf op papier)"
+image:      /uploads/olie-bewerkt2.jpg
+caption:    "Flessen olie (waterverf en fineliner in schetsboekje)"
 excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en in verhouding veel vitaminen en mineralen. Alle reden dus om vaak sla te eten. De smaakmaker van een salade is de dressing. Daar gaat het makkelijk 'fout'. In deze post lees je tips om je salade lekker te maken zonder dat je teveel vet of suiker binnen krijgt!"
 published:  true
 ---
+
+{% include image.html url="/uploads/olie-bewerkt2.jpg" description="Flessen olie (waterverf en fineliner in schetsboekje)" %}
+
 
 # Eerst even dit 
 
@@ -55,7 +58,7 @@ De ingrediënten die ik veel gebruik:
 - peper en zout
 - als niet vers aanwezig: gedroogde kruiden en/of specerijen
 
-{% include image.html url="/uploads/olie-bewerkt2.jpg" description="Flessen olie als basis (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/aceto3.jpg" description="Aceto Balsamico (acrylverf in schetsboekje)" %}
 
 Het is je misschien opgevallen dat olie op mijn lijstje terug komt. Ik hoor je denken: "Hier zit toch veel vet en dus calorieën in"? Dat klopt. Maar met mate heb je het ook onverzadigde vetten nodig! Ze zijn essentieel voor je lichaam. Hennepolie, of wietolie zoals mijn vriend het noemt, is wat onbekender. Het is een neutrale lekkere olie met veel omega 3. Als je geen (of niet veel) vis eet is dit daarom een aanrader om alle essentiële vetzuren binnen te krijgen. Even om alles uit de lucht te hebben: een wietsmaak zit er (gelukkig) niet aan en je wordt er ook niet stoned van. :)    
 
