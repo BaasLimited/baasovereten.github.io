@@ -1,0 +1,32 @@
+<div class="col-md-4 col-sm-12 home-post">
+    <div class="row">
+        <div class="col-md-12 d-sm-block d-md-none d-lg-none mb-3">
+            <hr />
+        </div>
+        <div class="col-md-12 d-none d-sm-block pb-3">
+            <div class="my-list-image bg-of-image justify-content-center">
+                {% if post.image!='' %}
+                <a href="{{ post.url }}" class="align-self-center">
+                    <img src="{{ post.image }}" class="img-fluid" alt="{{ post.caption }}">
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        <div class="col-md-12">
+            <h4><a href="{{ post.url }}">{{ post.title }}{{post.index}}</a></h4>
+            <p>
+                {% if post.image!='' %}
+                <span class="d-block d-sm-none">
+                    <a href="{{ post.url }}">
+                        <img src="{{ post.image }}" class="img-fluid w-50 float-left pr-3" alt="{{ post.caption }}">
+                    </a>
+                    </span>
+                {% endif %}
+                <a class="home-excerpt-link" href="{{ post.url }}">{{ post.excerpt }}</a>
+            </p>
+            <p class="d-block d-sm-none text-right">
+                <a class="link-no-decoration no-new-window btn btn-sm btn-primary" href="{{ post.url }}">Lees verder <i class="fa fa-chevron-circle-right"></i></a>
+            </p>
+        </div>
+    </div>
+</div>

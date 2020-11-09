@@ -1,5 +1,17 @@
 - name: Home
   uri: /
+- name: "Over afvallen"
+  uri: /over-afvallen/
+- name: "Over eten"
+  uri: /over-eten/
+- name: "Over bewegen"
+  uri: /over-bewegen/
+- name: "Over schilderen"
+  uri: /over-schilderen/
+- name: "Over tekenen"
+  uri: /over-tekenen/
+- name: "Over waterverf"
+  uri: /over-waterverf/
 - name: "Over mij"
   uri: /over-mij.html
 - name: "Contact"

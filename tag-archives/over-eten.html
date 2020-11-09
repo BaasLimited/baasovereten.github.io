@@ -1,0 +1,11 @@
+---
+title: "Over eten"
+permalink: /over-eten/index
+layout: "page-wide"
+---
+<h1>Over eten</h1>
+<div class="row mt-3 row-eq-height">
+    {% for post in site.tags["Over eten"] %}
+        {% include post-block.html %}
+    {% endfor %}
+</div>
