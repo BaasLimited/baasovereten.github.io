@@ -18,6 +18,60 @@
     - 
       image: "/uploads/meisje.jpg"
       caption: "Meisje blijft binnen (acryl verf op canvas)"
+    - 
+      image: "/uploads/schets-koken.jpg"
+      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
+    - 
+      image: "/uploads/schets-koken.jpg"
+      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
+    - 
+      image: "/uploads/tv-kijken.jpg"
+      caption: "Kiki zit tegen de tv aan geplakt (potlood in schetsboekje)"
+- 
+      image: "/uploads/schets-koken.jpg"
+      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
+- 
+      image: "/uploads/yoga-schets.jpg"
+      caption: "Down dog om alles los te laten (potlood in schetsboekje)"
+- 
+      image: "/uploads/zelfportret.jpg"
+      caption: "Zelfportret (waterverf in schetsboekje)"
+- 
+      image: "/uploads/manmetsnor.jpg"
+      caption: "Man met markant gezicht van internet (houtskool in schetsboek)"
+- 
+      image: "/uploads/borisalsbaby.jpg"
+      caption: "Mijn lieve neefje toen hij nog heel klein was (houtskool in schetsboek)"
+- 
+      image: "/uploads/selfiemetgeit.jpg"
+      caption: "Kiki, de Baas en een geit maken een selfie (houtskool in schetsboek)"
+- 
+      image: "/uploads/ans-houtskool.jpg"
+      caption: "Ans jaren geleden (houtskool in schetsboek)"
+- 
+      image: "/uploads/schets-koken.jpg"
+      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
+- 
+      image: "/uploads/vrouw.jpg"
+      caption: "Vrouw verstopt zich (waterverf in schetsboekje)"
+- 
+      image: "/uploads/portret-vrouw.jpg"
+      caption: "Vrouw verstopt zich nr 2. (softpastel in schetsboekje)"
+- 
+      image: "/uploads/portret-man.jpg"
+      caption: "Het leven is soms donker (softpastel in schetsboekje)"
+- 
+      image: "/uploads/felixs-portret.jpg"
+      caption: "Vrouw nagetekend uit boek van Felix Scheinberger (krijt in schetsboekje)"
+- 
+      image: "/uploads/klimt.jpg"
+      caption: "De vrouw van Klimt (fineliner en softpastel in schetsboekje)"
+- 
+      image: "/uploads/portret2.jpg"
+      caption: "Meisje in een experiment met weinig kleur (potlood in schetsboekje)"
+- 
+      image: "/uploads/portret.jpg"
+      caption: "Vrouw nagetekend uit boek van Felix Scheinberger nr 2 (krijt in schetsboekje)"
 
 - 
   id: 'acryl' 
