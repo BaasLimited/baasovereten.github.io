@@ -38,7 +38,7 @@ In plaats van door bikkelen (en daarna weken niet meer gaan omdat het verschrikk
 
 Als je (nog) geen goede conditie hebt, sport dan met een hartslagmeter om. Het is in het begin nog lastig om aan te voelen hoe hard je kan gaan. Als je te hard gaat, dan kom je halverwege de man met de hamer tegen. Als je te langzaam gaat, dan heeft je training minder nut. 
 
-> We hebben meestal de neiging om teveel van onszelf te vragen. Dit werkt demotiverend. Het is te zwaar en je gaat daarna nooit meer.
+> We willen vaak te veel en te snel. Dit werkt juist demotiverend..
 
 Bedenk wat voor training je wilt doen, wat je targethartslag is en stem je tempo af op je hartslag. De ene dag kan je enorm veel, de andere dag zit je na twee stappen al op je targethartslag. Maf maar waar. 
 
