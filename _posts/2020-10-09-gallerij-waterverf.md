@@ -1,7 +1,7 @@
 ---
 title:      "Waterverf werk"
 date:       2020-10-21 10:00:00 +0200
-tags:       ["Over waterverf", "Over tekenen"]
+tags:       ["Over schilderen", "Over tekenen"]
 category:   "over-waterverf"
 image:      /uploads/vogel.jpg
 caption:    "Vogel (waterverf en fineliner in schetsboekje)"
