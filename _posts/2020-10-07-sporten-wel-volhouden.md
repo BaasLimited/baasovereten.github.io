@@ -8,7 +8,7 @@ caption:    "Hardlopen in de stad (waterverf en fineliner in schetsboekje)"
 excerpt:    "Sporten is goed voor je, maar niet iedereen houdt het vol. Het is een van die dingen die we ons voornemen, een paar weken doen en daarna weer laten versloffen. Mijn gouden regel om het wel vol te houden: luister goed naar je lijf. Hoe dan? Hier een paar tips."
 published:  true
 ---
-[In mijn eerdere post](over-bewegen/2020/10/21/meer-bewegen.html) schreef ik al wat de bewegingsrichtlijnen van de gezondheidsraad zijn. Veeel bewegen en sporten dus! Als het lukt: RESPECT. Als het niet lukt: hier wat tips. Bij deze tips haal ik als voorbeeld vaak hardlopen aan, maar dit geldt natuurlijk voor alle (duur)sporten.
+[In mijn eerdere post](/over-bewegen/2020/10/21/meer-bewegen.html) schreef ik al wat de bewegingsrichtlijnen van de gezondheidsraad zijn. Veeel bewegen en sporten dus! Als het lukt: RESPECT. Als het niet lukt: hier wat tips. Bij deze tips haal ik als voorbeeld vaak hardlopen aan, maar dit geldt natuurlijk voor alle (duur)sporten.
 
 **1. Het hoeft niet perfect volgens de richtlijn**
 
