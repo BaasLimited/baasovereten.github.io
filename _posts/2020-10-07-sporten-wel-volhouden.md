@@ -6,7 +6,7 @@ category:   "over-sporten"
 image:      /uploads/hardlopen-zw-w.jpg
 caption:    "Hardlopen in de stad (waterverf en fineliner in schetsboekje)"
 excerpt:    "Sporten is goed voor je, maar niet iedereen houdt het vol. Het is een van die dingen die we ons voornemen, een paar weken doen en daarna weer laten versloffen. Mijn gouden regel om het wel vol te houden: luister goed naar je lijf. Hoe dan? Hier een paar tips."
-published:  true
+published:  false
 layout:     gallery-post
 ---
 
