@@ -10,6 +10,8 @@
   uri: /over-schilderen/
 - name: "Over tekenen"
   uri: /over-tekenen/
+- name: "Over denken"
+  uri: /over-denken/
 - name: "Over mij"
   uri: /over-mij.html
 - name: "Contact"
