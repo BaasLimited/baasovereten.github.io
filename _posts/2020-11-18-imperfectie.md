@@ -26,9 +26,13 @@ Al die keren dat we prachtige oude gebouwen hebben bekeken en mooie rondleidinge
 ## Perfect imperfecte ouders
 
 Ik ben momenteel de biografie van Bert Hellinger aan het lezen. Hij heeft een therapievorm ontwikkeld die vrij vaag is.  Ik heb een haat-liefde-verhouding met dit soort vaagheden. Het boeit me maar soms gaat het over mijn grens. Maar dat terzijde. Het volgende stuk tekst over imperfectie van ouders vond ik pakkend en mooi. Ik heb het wel wat ingekort. 
+ 
 ---
-*Natuurlijk hebben onze ouders ook tekortkomingen en zwakke punten. Ze hebben sommige dingen vanuit onze huidige optiek verkeerd gedaan. Stel je voor dat je ideale ouders had, dat ze in alle opzichten perfect waren en dat alles wonderbaarlijk goed ging. Hoe efficiënt zou dat zijn voor het leven? Het zijn juist de fouten, de uitdagingen, de dingen die soms van ons worden gevraagd met groot leed, die ons een speciale kracht geven als we ermee instemmen. [..] Nu kun je je voorstellen hoe het is als iemand uit een perfect gezin komt. Kan hij empathie hebben voor anderen? Kan hij genade voelen? Of is hij grotendeels afgesloten van het leven? Kijk nu opnieuw naar jezelf en naar anderen, die een aantal ontberingen hebben geleden. Hoe kun jij je inleven in anderen? Hoeveel meer kracht heb je om anderen te helpen en van anderen te houden dan degenen die uit een perfect gezin komen? *
+
+Natuurlijk hebben onze ouders ook tekortkomingen en zwakke punten. Ze hebben sommige dingen vanuit onze huidige optiek verkeerd gedaan. Stel je voor dat je ideale ouders had, dat ze in alle opzichten perfect waren en dat alles wonderbaarlijk goed ging. Hoe efficiënt zou dat zijn voor het leven? Het zijn juist de fouten, de uitdagingen, de dingen die soms van ons worden gevraagd met groot leed, die ons een speciale kracht geven als we ermee instemmen. [..] Nu kun je je voorstellen hoe het is als iemand uit een perfect gezin komt. Kan hij empathie hebben voor anderen? Kan hij genade voelen? Of is hij grotendeels afgesloten van het leven? Kijk nu opnieuw naar jezelf en naar anderen, die een aantal ontberingen hebben geleden. Hoe kun jij je inleven in anderen? Hoeveel meer kracht heb je om anderen te helpen en van anderen te houden dan degenen die uit een perfect gezin komen?
+
 ---
+
 Ouders doen vaak hun best om perfect te zijn. Dat hebben jouw ouders misschien gedaan. Misschien probeer je het zelf ook. Perfectie lukt niet. Dat kan niet. We zijn allemaal mensen. Mensen maken fouten. Mensen verliezen hun geduld en doen soms niet het beste. Bert Hellinger geeft dit een mooi perspectief. De imperfectie geeft diepte en glas aan onze levens.
 
 {% include image.html url="/uploads/zelfportret-met-kiki.jpg" description="Zelfportret op de bank met mijn lieve meid (waterverf op aquarelpapier)" %}
