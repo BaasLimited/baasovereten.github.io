@@ -45,7 +45,7 @@ Om zelf te tekenen moet je perfectionisme los kunnen laten. Met name bij het wer
 
 {% include image.html url="/uploads/woldhek-landschap.jpg" description="Landschap van Woldhek (waterverf op aquarelpapier)" %}
 
-## Het imperfecte blog
+## Mijn imperfecte blog
 
 Voor mijn website ben ik ook met een worsteling naar perfectie bezig. Ik dub over welke tekeningen er op mogen. Ik heb er doodles opgezet omdat ik het leuk vind, maar straks vinden anderen het stom? Ik schrijf nu een post over perfectie, wie vind dit boeiend? Wat voor nieuwe informatie voeg ik toe? Als het niet perfect hoeft te zijn, wat is dan wel goed? Waarom doe ik dit?
 
