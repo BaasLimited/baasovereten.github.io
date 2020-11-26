@@ -6,7 +6,7 @@ category:   "over-denken"
 image:      /uploads/woldhek-landschap.jpg
 caption:    "Hollands landschap van Woldhek (waterverf)"
 excerpt:    "Perfectionisme zit ons in de weg. Laat het los. Bevrijd je van de last en laat jezelf zien aan de wereld."
-published:  false
+published:  true
 layout:     gallery-post
 ---
 
