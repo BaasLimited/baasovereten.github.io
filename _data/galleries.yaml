@@ -225,6 +225,21 @@
   description: "Deze tekeningen zijn gemaakt met waterverf en fineliner"
   items:
   -
+    image: "/uploads/woldhek-landschap.jpg"
+    caption: "Landschap uit de cursus van Woldhek - waterverf"
+  -
+    image: "/uploads/zelfportret-met-kiki.jpg"
+    caption: "Zelfportret met Kiki - fineliner en waterverf"
+  -
+    image: "/uploads/achterburen.jpg"
+    caption: "Achterburen vanuit de tuin - fineliner en waterverf in schetsboekje"
+  -
+    image: "/uploads/bern.jpg"
+    caption: "Bern - waterverf"
+  -
+    image: "/uploads/bloembas.jpg"
+    caption: "Bloemen van de TU Delft - waterverf"
+  -
     image: "/uploads/aardbei.jpg"
     caption: "Aardbei met fineliner en waterverf"
   -
