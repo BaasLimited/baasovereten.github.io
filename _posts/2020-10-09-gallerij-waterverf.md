@@ -5,7 +5,7 @@ tags:       ["Over schilderen", "Over tekenen"]
 category:   "over-waterverf"
 image:      /uploads/bern.jpg
 caption:    "Bern (waterverf)"
-excerpt:    "Er is nieuw werk opgenomen in deze gallerij. Nieuwe scans van nieuw werk, maar ook van schilderingen die ik lang geleden heb gemaakt. Het plaatje van Bern was mijn eerste waterverfwerk ooit!"
+excerpt:    "Er is nieuw werk opgenomen in deze gallerij. Scans van nieuw werk, maar ook van schilderingen die ik lang geleden heb gemaakt. Het plaatje van Bern was mijn eerste waterverfwerk ooit!"
 published:  true
 layout:     gallery-post
 ---
