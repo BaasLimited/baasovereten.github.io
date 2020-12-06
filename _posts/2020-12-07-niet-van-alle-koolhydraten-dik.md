@@ -1,6 +1,6 @@
 ---
 title:      "Niet van élke koolhydraat word je dik"
-date:       2020-10-07 19:00:00 +0200
+date:       2020-12-07 10:00:00 +0200
 tag:        "Over afvallen"
 category:   "over-afvallen"
 image:      /uploads/boterham-waterverf.jpg
