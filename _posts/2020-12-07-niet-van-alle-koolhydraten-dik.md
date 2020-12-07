@@ -8,8 +8,9 @@ caption:    "Volkoren Waldkorn boterham (Waterverf en fineliner in schetsboekje)
 excerpt:    "Het geheim achter afvallen? Als je social media moet geloven moet je vooral koolhydraten weren. Maar pas op dat je niet gaat discrimineren. Sommige koolhydraten zijn wel degelijk heel gezond en niet dikmakend!"
 published:  true
 ---
-# De snelste koolhydraat van allen: suiker
-Jarenlang zijn we blind geweest voor het slechte effect dat suiker op ons lichaam heeft. De focus lag compleet op het beperken van vetten. Het is ondertussen ook bekend dat de suikerindustrie (nog steeds) een grote lobby heeft. Zembla heeft hier jaren geleden al interessante uitzendingen over gemaakt. Leuk feitje: toen ik onlangs googlde op 'wetenschappelijk onderzoek suiker' kwam ik terecht op [de website Kenniscentrum suiker & voeding](https://www.kenniscentrumsuiker.nl/). Klinkt super betrouwbaar, maar uiteraard gefinancierd door Cosun Beet Company. Een mooie Engelse term voor: de suikerindustrie. 
+Jarenlang zijn we blind geweest voor het slechte effect dat suiker op ons lichaam heeft. De focus lag compleet op het beperken van vetten. Het is ondertussen ook bekend dat de suikerindustrie (nog steeds) een grote lobby heeft. Zembla heeft hier jaren geleden al interessante uitzendingen over gemaakt. 
+
+Leuk feitje: toen ik onlangs googlde op 'wetenschappelijk onderzoek suiker' kwam ik terecht op [de website Kenniscentrum suiker & voeding](https://www.kenniscentrumsuiker.nl/). Klinkt super betrouwbaar, maar het blijkt gefinancierd te worden door Cosun Beet Company. Een mooie Engelse term voor: de suikerindustrie. 
 
 Suiker is een disacharide, of in normaal Nederlands, een tweevoudige koolhydraat. De enkelvoudige en tweevoudige koolhydraten zijn door het lichaam snel te verteren en zorgen voor snelle energie. In sportdrankjes zit hier bijvoorbeeld veel van in. Enkelvoudige en tweevoudige koolhydraten zitten niet alleen in suiker en producten met suikers (snoep enzo). Het zit ook in witbrood, normale pasta en witte rijst.
 
@@ -23,7 +24,7 @@ Door de snelle stijging van de bloedsuikerspiegel, gaat je alvleesklier insuline
 
 ### Grote pieken...diepe dalen
 
-Als met behulp van de insuline de overtollige glucose uit het bloed in verwijderd, volgt er een diep dal. Het eten is al verteerd, dat ging heel snel. Na de piek, komt een daling van de bloedsuikerspiegel. Dit is geen fijn gevoel. Het maakt je moe, lusteloos, wazig in je hoofd en hongerig.
+Als met behulp van de insuline de overtollige glucose uit het bloed in verwijderd, daalt je bloedsuikerspiegel. Het eten is al verteerd, dat ging heel snel. Het diepe dal van je bloedsuiker is geen fijn gevoel. Het maakt je moe, lusteloos, wazig in je hoofd en hongerig.
 
 ### Beter aan de meervoudige broertjes en zusjes
 Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilvervlies rijs, volkoren (meergranen) brood, volkoren pasta. Deze producten zijn voor ons lichaam lastiger te verteren. Je voelt je daardoor langer verzadigd. Maar belangrijker nog: je bloedsuikerspiegel stijgt door de lastige vertering zo langzaam, dat je de energie verbrandt in plaats van op slaat in vet. Je hebt geen last van vervelende dips in bloedsuikerspiegel waardoor je je niet slap gaat voelen. 
@@ -38,4 +39,4 @@ Dussss: ook als je wilt afvallen, kan je het beste de snelle koolhydraten weren.
 
 PS 1 een beetje honing of suiker kan best. It's all about the numbers! 
 
-PS 2 In fruit zitten ook veel snelle koolhydraten. Maar er zitten ook veel vitamines in waardoor het toch goed voor je is. Je kan de vitaminebommetjes alleen beter niet persen. Ongemerkt krijg je dan veel meer binnen. Het klokt heel makkelijk weg niet waar? Maar belangrijker nog: als je het fruit in vaste vorm eet dan krijg je ook de (in water oplosbare) vezels binnen. Deze zorgen dat het fruit niet snel wordt verteerd. Ook na fruit zal je dus geen last hebben van een bloedsuikerdip.
+PS 2 In fruit zitten ook veel snelle koolhydraten. Maar er zitten ook veel vitamines in waardoor het toch goed voor je is. Je kan de vitaminebommetjes alleen beter niet persen. Ongemerkt krijg je dan veel meer binnen. Het klokt heel makkelijk weg niet waar? Maar belangrijker nog: als je het fruit in vaste vorm eet dan krijg je ook de (in water oplosbare) vezels binnen. Deze zorgen dat het fruit niet snel wordt verteerd. Ook na het eten (!) van fruit zal je dus geen last hebben van een bloedsuikerdip.
