@@ -37,4 +37,5 @@ Dussss: ook als je wilt afvallen, kan je het beste de snelle koolhydraten weren.
 {% include image.html url="/uploads/banaan.jpg" description="Banaan (Waterverf en fineliner in schetsboekje)" %}
 
 PS 1 een beetje honing of suiker kan best. It's all about the numbers! 
+
 PS 2 In fruit zitten ook veel snelle koolhydraten. Maar er zitten ook veel vitamines in waardoor het toch goed voor je is. Je kan de vitaminebommetjes alleen beter niet persen. Ongemerkt krijg je dan veel meer binnen. Het klokt heel makkelijk weg niet waar? Maar belangrijker nog: als je het fruit in vaste vorm eet dan krijg je ook de (in water oplosbare) vezels binnen. Deze zorgen dat het fruit niet snel wordt verteerd. Ook na fruit zal je dus geen last hebben van een bloedsuikerdip.
