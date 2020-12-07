@@ -33,7 +33,7 @@ Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilv
 
 In producten met meervoudige koolhydraten, zoals volkorenbrood zitten ook veel vitamines en mineralen die je anders te weinig binnen krijgt. En vergeet de vezels niet die erin zitten! 
 
-Dussss: ook als je wilt afvallen, kan je het beste de snelle koolhydraten weren. Maar je volkoren bammetjes kan je gewoon blijven eten. Het is zelfs beter om dit te doen. Cheers, geniet ervan!   
+Dussss: als je wilt afvallen, kan je het beste de snelle koolhydraten weren. Maar je volkoren bammetjes kan je gewoon blijven eten. Het is zelfs beter om dit te doen. Cheers, geniet ervan!   
 
 {% include image.html url="/uploads/banaan.jpg" description="Banaan (Waterverf en fineliner in schetsboekje)" %}
 
