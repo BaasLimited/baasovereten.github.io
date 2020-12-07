@@ -20,7 +20,7 @@ Ons lichaam kan enkelvoudige en tweevoudige koolhydraten snel omzetten naar gluc
 
 ### Opslag vet
 
-Door de snelle stijging van de bloedsuikerspiegel, gaat je alvleesklier insuline afgeven. De insuline zorgt ervoor dat de glucose in je bloed in je lever en spieren opgeslagen wordt, maar ook dat de glucose in vetweefsel wordt omgezet. 
+Door de snelle stijging van de bloedsuikerspiegel, gaat je alvleesklier insuline afgeven. De insuline zorgt ervoor dat de glucose uit je bloed opgeslagen wordt in je lever en spieren. Maar het zorgt er ook voor dat glucose in vetweefsel wordt omgezet. 
 
 ### Grote pieken...diepe dalen
 
