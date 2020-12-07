@@ -1,5 +1,7 @@
 - name: Home
   uri: /
+- name: "Over denken"
+  uri: /over-denken/
 - name: "Over afvallen"
   uri: /over-afvallen/
 - name: "Over eten"
@@ -10,8 +12,6 @@
   uri: /over-schilderen/
 - name: "Over tekenen"
   uri: /over-tekenen/
-- name: "Over denken"
-  uri: /over-denken/
 - name: "Over mij"
   uri: /over-mij.html
 - name: "Contact"
