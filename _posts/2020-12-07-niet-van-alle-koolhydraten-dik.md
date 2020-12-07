@@ -27,7 +27,7 @@ Door de snelle stijging van de bloedsuikerspiegel, gaat je alvleesklier insuline
 Als met behulp van de insuline de overtollige glucose uit het bloed in verwijderd, daalt je bloedsuikerspiegel. Het eten is al verteerd, dat ging heel snel. Het diepe dal van je bloedsuiker is geen fijn gevoel. Het maakt je moe, lusteloos, wazig in je hoofd en hongerig.
 
 ### Beter aan de meervoudige broertjes en zusjes
-Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilvervlies rijs, volkoren (meergranen) brood, volkoren pasta. Deze producten zijn voor ons lichaam lastiger te verteren. Je voelt je daardoor langer verzadigd. Maar belangrijker nog: je bloedsuikerspiegel stijgt door de lastige vertering zo langzaam, dat je de energie verbrandt in plaats van op slaat in vet. Je hebt geen last van vervelende dips in bloedsuikerspiegel waardoor je je niet slap gaat voelen. 
+Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilvervlies rijs, volkoren (meergranen) brood, volkoren pasta. Deze producten zijn voor ons lichaam lastiger te verteren. Je voelt je daardoor langer verzadigd. Maar belangrijker nog: je bloedsuikerspiegel stijgt door de lastige vertering zo langzaam, dat je de energie verbrandt in plaats van opslaat in vet. Je hebt geen last van vervelende dips in bloedsuikerspiegel waardoor je je niet slap gaat voelen. 
 
 > Meervoudige koolhydraten zijn lastig te verteren. Dit gaat langzaam. Hierdoor worden ze meestal nooit vet.
 
