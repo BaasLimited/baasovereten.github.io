@@ -28,6 +28,8 @@ Als met behulp van de insuline de overtollige glucose uit het bloed in verwijder
 ### Beter aan de meervoudige broertjes en zusjes
 Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilvervlies rijs, volkoren (meergranen) brood, volkoren pasta. Deze producten zijn voor ons lichaam lastiger te verteren. Je voelt je daardoor langer verzadigd. Maar belangrijker nog: je bloedsuikerspiegel stijgt door de lastige vertering zo langzaam, dat je de energie verbrandt in plaats van op slaat in vet. Je hebt geen last van vervelende dips in bloedsuikerspiegel waardoor je je niet slap gaat voelen. 
 
+> Meervoudige koolhydraten zijn lastig te verteren. Dit gaat langzaam. Hierdoor worden ze meestal nooit vet.
+
 In producten met meervoudige koolhydraten, zoals volkorenbrood zitten ook veel vitamines en mineralen die je anders te weinig binnen krijgt. En vergeet de vezels niet die erin zitten! 
 
 Dussss: ook als je wilt afvallen, kan je het beste de snelle koolhydraten weren. Maar je volkoren bammetjes kan je gewoon blijven eten. Het is zelfs beter om dit te doen. Cheers, geniet ervan!   
