@@ -1,12 +1,12 @@
 ---
 title:      "Niet van élke koolhydraat word je dik"
-date:       2020-12-07 10:00:00 +0200
+date:       2020-12-07 08:00:00 +0200
 tag:        "Over afvallen"
 category:   "over-afvallen"
 image:      /uploads/boterham-waterverf.jpg
 caption:    "Volkoren Waldkorn boterham (Waterverf en fineliner in schetsboekje)"
 excerpt:    "Het geheim achter afvallen? Als je social media moet geloven moet je vooral koolhydraten weren. Maar pas op dat je niet gaat discrimineren. Sommige koolhydraten zijn wel degelijk heel gezond en niet dikmakend!"
-published:  false
+published:  true
 ---
 # De snelste koolhydraat van allen: suiker
 Jarenlang zijn we blind geweest voor het slechte effect dat suiker op ons lichaam heeft. De focus lag compleet op het beperken van vetten. Het is ondertussen ook bekend dat de suikerindustrie (nog steeds) een grote lobby heeft. Zembla heeft hier jaren geleden al interessante uitzendingen over gemaakt. Leuk feitje: toen ik onlangs googlde op 'wetenschappelijk onderzoek suiker' kwam ik terecht op [de website Kenniscentrum suiker & voeding](https://www.kenniscentrumsuiker.nl/). Klinkt super betrouwbaar, maar uiteraard gefinancierd door Cosun Beet Company. Een mooie Engelse term voor: de suikerindustrie. 
