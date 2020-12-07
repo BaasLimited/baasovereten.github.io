@@ -1,7 +1,7 @@
 ---
 title:      "Niet van élke koolhydraat word je dik"
 date:       2020-12-07 08:00:00 +0200
-tag:        "Over afvallen"
+tag:        ["Over afvallen", "Over eten"]
 category:   "over-afvallen"
 image:      /uploads/boterham-waterverf.jpg
 caption:    "Volkoren Waldkorn boterham (Waterverf en fineliner in schetsboekje)"
