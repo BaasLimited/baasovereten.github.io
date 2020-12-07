@@ -17,14 +17,15 @@ Suiker is een disacharide, of in normaal Nederlands, een tweevoudige koolhydraat
 
 Ons lichaam kan enkelvoudige en tweevoudige koolhydraten snel omzetten naar glucose en fructose. Deze kleinste deeltjes van koolhydraten komen snel na het eten in je bloed terecht, waardoor je  bloedsuikerspiegel snel stijgt. Dit heeft verschillende nadelen. 
 
-## Opslag vet
+### Opslag vet
 
 Door de snelle stijging van de bloedsuikerspiegel, gaat je alvleesklier insuline afgeven. De insuline zorgt ervoor dat de glucose in je bloed in je lever en spieren opgeslagen wordt, maar ook dat de glucose in vetweefsel wordt omgezet. 
 
-## Grote pieken...diepe dalen
+### Grote pieken...diepe dalen
 
 Als met behulp van de insuline de overtollige glucose uit het bloed in verwijderd, volgt er een diep dal. Het eten is al verteerd, dat ging heel snel. Na de piek, komt een daling van de bloedsuikerspiegel. Dit is geen fijn gevoel. Het maakt je moe, lusteloos, wazig in je hoofd en hongerig.
 
+### Beter aan de meervoudige broertjes en zusjes
 Meervoudige koolhydraten hebben deze nadelen niet. Dit zijn producten zoals zilvervlies rijs, volkoren (meergranen) brood, volkoren pasta. Deze producten zijn voor ons lichaam lastiger te verteren. Je voelt je daardoor langer verzadigd. Maar belangrijker nog: je bloedsuikerspiegel stijgt door de lastige vertering zo langzaam, dat je de energie verbrandt in plaats van op slaat in vet. Je hebt geen last van vervelende dips in bloedsuikerspiegel waardoor je je niet slap gaat voelen. 
 
 In producten met meervoudige koolhydraten, zoals volkorenbrood zitten ook veel vitamines en mineralen die je anders te weinig binnen krijgt. En vergeet de vezels niet die erin zitten! 
