@@ -11,3 +11,5 @@ layout:     gallery-post
 ---
 
 {% include gallery.html id="mensen" show_description=false %}
+
+Mensen tekenen is veel moeilijker dan wat dan ook. Ons oog is getraind om te zien of iest gek is of niet klopt. Dit weerhoudt me er niet van om ermee te experimenteren. De meeste van deze werken zijn ook experimenten. Een voor een ben ik nog niet tevreden over, maar tegelijkertijd toch vaak trots op.
