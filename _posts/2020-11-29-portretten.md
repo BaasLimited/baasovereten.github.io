@@ -6,7 +6,7 @@ category:   "over-mensen"
 image:      /uploads/selfiemetgeit.jpg
 caption:    "De Baas met Kiki op de kinderboerderij (houtskool op papier)"
 excerpt:    "Mensen tekenen is onzettend leuk! Van kinds af aan doe ik het graag. Hier een galerij met een collectie door mij tekende mensen. Van snelle schetsen tot schilderijen."
-published:  true
+published:  false
 layout:     gallery-post
 ---
 
