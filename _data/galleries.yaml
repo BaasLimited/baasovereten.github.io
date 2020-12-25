@@ -129,6 +129,9 @@
   title: "Tekeningen en schilderijen van eten"
   description: "Deze tekeningen zijn gemaakt voor dit blog. Eten geeft veel inspiratie door de mooie kleuren."
   items:
+    -
+      image: "/uploads/nootjes.jpg"
+      caption: "Nootjes...I love it! (fineliner en waterverf in schetsboekje)"    
     -  
       image: "/uploads/prei2.jpg"
       caption: "Oude prei in de keuken (fineliner en waterverf in schetsboekje)"
