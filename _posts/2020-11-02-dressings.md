@@ -9,9 +9,6 @@ excerpt:    "Een salade is ontzettend gezond. In sla zitten weinig calorieën en
 published:  true
 ---
 
-{% include image.html url="/uploads/olie-bewerkt2.jpg" description="Flessen olie (waterverf en fineliner in schetsboekje)" %}
-
-
 # Eerst even dit 
 
 Eerst even mijn frustratie kwijt. Sorry alvast. In de supermarkt is er geen kant en klare dressing te vinden die gezond is. In werkelijk alle soorten zit teveel vet, suiker of zout. Of allemaal! Trap niet in mooie labels met allerlei gezondheidsclaims. Als je op de voedingswaardetabel kijkt dan zie je waar ik het over heb. Het is frustrerend dat het ons niet makkelijk wordt gemaakt om gezond te eten. 
@@ -29,6 +26,8 @@ Ik eet vaak een kleine salade. Vooral bij de lunch. Ik eet gewoon boterhammen ho
 > Door een lekkere salade te eten na mijn boterhammen, geef ik mijn slome hersenen de tijd om zich te realiseren dat ik heerlijk geluncht heb.
 
 Goed kauwen en bewust eten (dus niet voor de televisie) helpt ook. Extra voordeel: je proeft echt de heerlijkheden die je voor jezelf hebt gemaakt. Maar terug naar dressings.
+
+{% include image.html url="/uploads/paprika.jpg" description="Paprika (waterverf en fineliner in schetsboekje)" %}
 
 # Basis van een gezonde dressing
 
