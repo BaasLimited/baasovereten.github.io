@@ -1,95 +1,3 @@
-- 
-  id: 'mensen' 
-  title: "Mensen blijven boeien" 
-  description: "Als kind tekende ik samen met mijn zus graag mensen. Dat doe ik nog steeds graag."
-  items:
-    - 
-      image: "/uploads/waterverfportret.jpg"
-      caption: "Waterverfportret 1 (Aquarelverf op papier)"
-    - 
-      image: "/uploads/baas.jpeg"
-      caption: "Baas lekker aan het chillen op de bank (fineliner en softpastels in mijn grote schetsboek)"
-    - 
-      image: "/uploads/fietsen.jpg"
-      caption: "Man op de fies in Amsterdam (fineliner en waterverf in schetboekje)"
-    - 
-      image: "/uploads/meisje.jpg"
-      caption: "Meisje blijft binnen (acryl verf op canvas)"
-    - 
-      image: "/uploads/schets-koken.jpg"
-      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
-    - 
-      image: "/uploads/tv-kijken.jpg"
-      caption: "Kiki zit tegen de tv aan geplakt (potlood in schetsboekje)"
-    - 
-      image: "/uploads/yoga-schets.jpg"
-      caption: "Down dog om alles los te laten (potlood in schetsboekje)"
-    - 
-      image: "/uploads/kiekeboe.jpg"
-      caption: "Verstopt voor de grote wereld (acryl op papier)"
-    - 
-      image: "/uploads/zelfportret.jpg"
-      caption: "Zelfportret (waterverf in schetsboekje)"
-    - 
-      image: "/uploads/manmetsnor.jpg"
-      caption: "Man met markant gezicht van internet (houtskool in schetsboek)"
-    - 
-      image: "/uploads/borisalsbaby.jpg"
-      caption: "Mijn lieve neefje toen hij nog heel klein was (houtskool in schetsboek)"
-    - 
-      image: "/uploads/portret-olieverf.jpg"
-      caption: "Mijn eerste geschilderde portret (olieverf of papier)"
-    - 
-      image: "/uploads/selfiemetgeit.jpg"
-      caption: "Kiki, de Baas en een geit maken een selfie (houtskool in schetsboek)"
-    - 
-      image: "/uploads/ans-houtskool.jpg"
-      caption: "Ans jaren geleden (houtskool in schetsboek)"
-    - 
-      image: "/uploads/vrouw.jpg"
-      caption: "Vrouw verstopt zich (waterverf in schetsboekje)"
-    - 
-      image: "/uploads/portret3.jpg"
-      caption: "Portret nr. 3 (waterverf in schetsboekje)"
-    - 
-      image: "/uploads/portret-vrouw.jpg"
-      caption: "Vrouw verstopt zich nr 2. (softpastel in schetsboekje)"
-    - 
-      image: "/uploads/nina.jpg"
-      caption: "Mijn lieve nichtje is moe (fineliner in schetsboekje)"
-    - 
-      image: "/uploads/portret-man.jpg"
-      caption: "Het leven is soms donker (softpastel in schetsboekje)"
-    - 
-      image: "/uploads/portret5.jpg"
-      caption: "Portret nr. 5 (stift op papier)"
-    - 
-      image: "/uploads/felixs-portret.jpg"
-      caption: "Vrouw nagetekend uit boek van Felix Scheinberger (krijt in schetsboekje)"
-    - 
-      image: "/uploads/felix-portret2.jpg"
-      caption: "Man nagetekend uit boek van Felix Scheinberger (waterverf op aquarelpapier)"
-    - 
-      image: "/uploads/woldhek-mandela.jpg"
-      caption: "Kleinmondige Mandela van Woldhek nagemaakt (waterverf op aquarelpapier)"
-    - 
-      image: "/uploads/klimt3.jpg"
-      caption: "De vrouw van Klimt (fineliner en softpastel in schetsboekje)"
-    - 
-      image: "/uploads/zelfportret-met-kiki.jpg"
-      caption: "Ik met mijn liefste kleine meid op de bank (waterverf in schetsboekje)"
-    - 
-      image: "/uploads/portret2.jpg"
-      caption: "Meisje in een experiment met weinig kleur (potlood in schetsboekje)"
-    - 
-      image: "/uploads/portret.jpg"
-      caption: "Vrouw nagetekend uit boek van Felix Scheinberger nr 2 (krijt in schetsboekje)"
-    - 
-      image: "/uploads/oudeman-kleur.jpg"
-      caption: "Oude man uit Lonely Planet Maleisie (krijt in schetsboekje)"
-    - 
-      image: "/uploads/suus.jpg"
-      caption: "Mooie foto van een dierbare (potlood in schetsboekje)"
 
 - 
   id: 'acryl' 
@@ -129,6 +37,9 @@
   title: "Tekeningen en schilderijen van eten"
   description: "Deze tekeningen zijn gemaakt voor dit blog. Eten geeft veel inspiratie door de mooie kleuren."
   items:
+    -
+      image: "/uploads/paprika.jpg"
+      caption: "Rode paprika (fineliner en waterverf in schetsboekje)"
     -
       image: "/uploads/nootjes.jpg"
       caption: "Nootjes...I love it! (fineliner en waterverf in schetsboekje)"    
@@ -330,4 +241,96 @@
     image: "/uploads/zelfportret.jpg"
     caption: "Zelfportret met fineliner en waterverf"
       
-      
+ - 
+  id: 'mensen' 
+  title: "Mensen blijven boeien" 
+  description: "Als kind tekende ik samen met mijn zus graag mensen. Dat doe ik nog steeds graag."
+  items:
+    - 
+      image: "/uploads/waterverfportret.jpg"
+      caption: "Waterverfportret 1 (Aquarelverf op papier)"
+    - 
+      image: "/uploads/baas.jpeg"
+      caption: "Baas lekker aan het chillen op de bank (fineliner en softpastels in mijn grote schetsboek)"
+    - 
+      image: "/uploads/fietsen.jpg"
+      caption: "Man op de fies in Amsterdam (fineliner en waterverf in schetboekje)"
+    - 
+      image: "/uploads/meisje.jpg"
+      caption: "Meisje blijft binnen (acryl verf op canvas)"
+    - 
+      image: "/uploads/schets-koken.jpg"
+      caption: "Baas is lekker aan het koken (potlood in schetsboekje)"
+    - 
+      image: "/uploads/tv-kijken.jpg"
+      caption: "Kiki zit tegen de tv aan geplakt (potlood in schetsboekje)"
+    - 
+      image: "/uploads/yoga-schets.jpg"
+      caption: "Down dog om alles los te laten (potlood in schetsboekje)"
+    - 
+      image: "/uploads/kiekeboe.jpg"
+      caption: "Verstopt voor de grote wereld (acryl op papier)"
+    - 
+      image: "/uploads/zelfportret.jpg"
+      caption: "Zelfportret (waterverf in schetsboekje)"
+    - 
+      image: "/uploads/manmetsnor.jpg"
+      caption: "Man met markant gezicht van internet (houtskool in schetsboek)"
+    - 
+      image: "/uploads/borisalsbaby.jpg"
+      caption: "Mijn lieve neefje toen hij nog heel klein was (houtskool in schetsboek)"
+    - 
+      image: "/uploads/portret-olieverf.jpg"
+      caption: "Mijn eerste geschilderde portret (olieverf of papier)"
+    - 
+      image: "/uploads/selfiemetgeit.jpg"
+      caption: "Kiki, de Baas en een geit maken een selfie (houtskool in schetsboek)"
+    - 
+      image: "/uploads/ans-houtskool.jpg"
+      caption: "Ans jaren geleden (houtskool in schetsboek)"
+    - 
+      image: "/uploads/vrouw.jpg"
+      caption: "Vrouw verstopt zich (waterverf in schetsboekje)"
+    - 
+      image: "/uploads/portret3.jpg"
+      caption: "Portret nr. 3 (waterverf in schetsboekje)"
+    - 
+      image: "/uploads/portret-vrouw.jpg"
+      caption: "Vrouw verstopt zich nr 2. (softpastel in schetsboekje)"
+    - 
+      image: "/uploads/nina.jpg"
+      caption: "Mijn lieve nichtje is moe (fineliner in schetsboekje)"
+    - 
+      image: "/uploads/portret-man.jpg"
+      caption: "Het leven is soms donker (softpastel in schetsboekje)"
+    - 
+      image: "/uploads/portret5.jpg"
+      caption: "Portret nr. 5 (stift op papier)"
+    - 
+      image: "/uploads/felixs-portret.jpg"
+      caption: "Vrouw nagetekend uit boek van Felix Scheinberger (krijt in schetsboekje)"
+    - 
+      image: "/uploads/felix-portret2.jpg"
+      caption: "Man nagetekend uit boek van Felix Scheinberger (waterverf op aquarelpapier)"
+    - 
+      image: "/uploads/woldhek-mandela.jpg"
+      caption: "Kleinmondige Mandela van Woldhek nagemaakt (waterverf op aquarelpapier)"
+    - 
+      image: "/uploads/klimt3.jpg"
+      caption: "De vrouw van Klimt (fineliner en softpastel in schetsboekje)"
+    - 
+      image: "/uploads/zelfportret-met-kiki.jpg"
+      caption: "Ik met mijn liefste kleine meid op de bank (waterverf in schetsboekje)"
+    - 
+      image: "/uploads/portret2.jpg"
+      caption: "Meisje in een experiment met weinig kleur (potlood in schetsboekje)"
+    - 
+      image: "/uploads/portret.jpg"
+      caption: "Vrouw nagetekend uit boek van Felix Scheinberger nr 2 (krijt in schetsboekje)"
+    - 
+      image: "/uploads/oudeman-kleur.jpg"
+      caption: "Oude man uit Lonely Planet Maleisie (krijt in schetsboekje)"
+    - 
+      image: "/uploads/suus.jpg"
+      caption: "Mooie foto van een dierbare (potlood in schetsboekje)"
+
