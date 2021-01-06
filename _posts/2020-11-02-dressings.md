@@ -79,6 +79,7 @@ Tot slot, ter inspiratie hier een paar combinaties waar ik blij van word.
 - sla met venkel en appel en een dressing van yoghurt, peper en zout en verse peterselie of bieslook
 - sla met tomaatjes en basilicum en een dressing met Aceto Balsamico. "The classic"
 - sla met (rauwe) bloemkool, bosui en een yoghurt-kerrie dressing. Hiervoor gebruik ik de pittige kerriemix van de Jumbo. Echt lekker
+- rucola met artichokhartjes uit blik. Voor de dressing: yoghurt, honing, citroensap, gerookte paprikapoeder (lekker veel) en peper & zout
 
 {% include image.html url="/uploads/wasabi.jpg" description="Een tube Wasabi pasta (waterverf en fineliner in schetsboekje)" %}
 
