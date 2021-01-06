@@ -156,6 +156,21 @@
   description: "Deze tekeningen zijn gemaakt met waterverf en fineliner"
   items:
   -
+    image: "/uploads/pindakaas3.jpg"
+    caption: "100% pindakaas - 1000% lekker (fineliner en waterverf in schetsboekje)
+  -
+    image: "/uploads/wijn.jpg"
+    caption: "Wijn met een boekje erbij (fineliner en waterverf op boekpagina)"
+  - 
+    image: "/uploads/baasbank.jpg"
+    caption: "Luie zondag op de bank (fineliner en waterverf op boekpagina)"
+  -
+    image: "/uploads/kaas.jpg"
+    caption: "Ouderwetse kaasblokjes (fineliner en waterverf in schetsboekje)" 
+  -
+    image: "/uploads/kerstman.jpg"
+    caption: "De kerstman lust er ook wel een of twee - fineliner en waterverf in schetsboekje"
+  -
     image: "/uploads/woldhek-landschap.jpg"
     caption: "Landschap uit de cursus van Woldhek - waterverf"
   -
