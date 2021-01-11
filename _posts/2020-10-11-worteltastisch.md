@@ -15,7 +15,7 @@ Na een tijdje mijn eten bijgehouden te hebben kwam ik erachter dat ik te weinig 
 
 Waar is vitamine A allemaal goed voor? Zoals algemeen bekend: het is goed voor je ogen en dan specifiek voor het aanpassen aan duisternis. Zien in het donker dus. Wel zo handig om dat te (blijven) kunnen. Ook is vitamine A belangrijk voor je huid, je haar en tandvlees. Het is nodig bij de groei van kinderen, de opbouw van botten en tanden. Oh ja, het speelt ook een rol bij de afweer tegen ziektes. Genoeg redenen om aan de wortelen te gaan!
 
-{% include image.html url="/uploads/oog.jpg" description="Je mooie blauwe oog (waterverf en fineliner in schetsboekje)" %}
+{% include image.html url="/uploads/oog.jpg" description="Een blauw oog (waterverf en fineliner in schetsboekje)" %}
 
 Na wat experimenten hebben mijn vriend en ik een aantal heerlijke wortel gerechten gevonden. En ze zijn nog gezond ook, dus de recepten kunnen ook als je aan het afvallen bent!
 
