@@ -6,7 +6,7 @@ category:   "over-eten"
 image:      /uploads/wortelen.jpg
 caption:    "Zak met wortelen (waterverf en fineliner in schetsboekje)"
 excerpt:    "Wortelen zijn super goed voor je. Er zitten veel vitamines in en daarom zouden we ze eigenlijk meer moeten eten. Ik zelf at bijna nooit wortelen. Samen met mijn vriend zijn we op jacht gegaan naar lekkere wortelrecepten en met succes! Hier vind je de toppers!"
-published:  false
+published:  true
 ---
 
 Wortelen zijn underrated. Het was lang geleden dat ik vrijwillig wortel gegeten had. Ik had altijd zo'n hutspot associatie ermee. Nu ik dit typ bedenk ik: er zijn vast lekkere hutspot recepten, maar zoals ik het ken is het een blègh prutje met een zoet weeïge smaak. Niet echt aanlokkelijk. Daarom heb ik lang geen wortelen gegeten dus.
