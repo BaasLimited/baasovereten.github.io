@@ -56,15 +56,19 @@ Nadeel van dit langzame aanpassen is dat de effecten geleidelijk tot uiting word
 
 Veranderen met een "Big Bang". Naast oliebollen en champagne is dit voor sommigen een traditie met nieuwjaar. Op 31 december eten ze hun laatste oliebol, drinken ze het laatste glaasje champagne en, of, drukken ze hun laatste sigaret uit. Vanaf dat moment wordt alles anders! Het nieuwe regime gaat in. 
 
-Het gevaar hiervan is bekend. Het volhouden. Hoe zorg je dat je geen jojo wordt? Maak je nieuwe voornemen daarom zo concreet mogelijk. Sluit je bijvoorbeeld aan bij een groep om samen af te vallen. Denk ook alvast na wat je doet als je je streefgewicht bereikt hebt. Wat wordt jouw nieuwe normaal, zeg maar. En dan bedoel ik geen 1,5 meter afstand, maar wat ga je eten? 
+{% include image.html url="/uploads/diepespringen3.jpg" description="De sprong in het diepe en dan zwemmen maar! (waterverf en fineliner in schetsboekje)" %}
 
-Ook als je voor de big bang gaat is het mijn advies om niet in termen van dieet te denken, maar gezond te gaan eten. Als je eerst flink wil afvallen kan je zorgen dat je minder calorieën eet. Als je op gewicht bent kan je dan meer eten, maar niet anders!
+Het gevaar hiervan is bekend. Het volhouden. Hoe zorg je dat je geen jojo wordt? Als je het roer compleet om gaat gooien is het misschien een goed idee om het samen te doen. Sluit je bijvoorbeeld aan bij een groep of doe het samen met een vriend of vriendin. Denk ook op tijd na wat je doet als je je streefgewicht bereikt hebt. Wat wordt jouw nieuwe normaal, zeg maar. En dan bedoel ik geen 1,5 meter afstand, maar wat ga je eten? 
+
+Ook als je voor de big bang gaat is het mijn advies om niet in termen van dieet te denken, maar gezond te gaan eten. Als je eerst flink wil afvallen kan je zorgen dat je minder calorieën eet. Maximaal 500 minder dan wat je per dag nodig hebt, anders honger je je zelf uit! Als je op gewicht bent kan je dan meer eten, maar het hoeft niet anders!
 
 Er zitten voordelen aan een big bang aanpak. Meestal wordt op meerdere vlakken ingegrepen, zoals meer bewegen, gezond en minder eten en geen alcohol meer drinken. Door het hoge ambitieniveau zal je ook relatief snel resultaat zien. Dit motiveert om door te zetten en geeft positieve energie om er mee door te gaan.
 
+{% include image.html url="/uploads/neushoorn2.jpg" description="Een neushoorn gaat door, is niet tegen te houden (gouache in schetsboekje)" %}
+
 ## Dus?
 
-Denk bewust na over je aanpak en experimenteer. Niemand weet wat het beste is voor jou. Heb respect voor jezelf door jezelf serieus te nemen. Is je nieuwe regime bikkelen en onprettig? Hoe lang ga je dat dan volhouden? Doe niet onnodig streng tegen jezelf door te concluderen "dat je het niet kan". Daar schiet je niets mee op. Misschien geeft mijn eerdere (post)[over-afvallen/2020/10/24/afvallen.html] trouwens nog ideeën. En bedenk: al het begin is moeilijk!
+Denk bewust na over je plan en experimenteer. Niemand weet wat het beste is voor jou. Heb respect voor jezelf door jezelf serieus te nemen. Is je nieuwe regime bikkelen en onprettig? Hoe lang ga je dat dan volhouden? Doe niet onnodig streng tegen jezelf door te concluderen "dat je het niet kan". Daar schiet je niets mee op. Misschien geeft mijn eerdere (post)[over-afvallen/2020/10/24/afvallen.html] trouwens nog ideeën. En bedenk: al het begin is moeilijk!
 
 PS Als je met afvallen enzo bezig bent dan kom je op internet ook veel lelijke dingen tegen. Ik vind gezond eten en leven boeiend maar de oordelen en de maatschappelijke behoefte om te voldoen aan het schoonheidsideaal staan me tegen. Ook het oordeel dat soms geplakt wordt op mensen die er niet aan voldoen. Zoals de jeugdheld van mijn zus al zo mooi verwoorde: "Come as you are". It's all good. 
 
