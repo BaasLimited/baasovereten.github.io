@@ -6,7 +6,7 @@ category:   "over-afvallen"
 image:      /uploads/oliebol.jpg
 caption:    "Na de oliebol komen de goede voornemens (waterverf en fineliner in schetsboekje"
 excerpt:    "Hoe gaat het met je goede voornemens? In deze posts vind je manieren om blijvend veranderingen door te voeren."
-published:  false
+published:  true
 ---
  
 Een nieuw jaar, nieuwe kansen, nieuwe voornemens. Het nieuwe jaar is voor veel mensen aanleiding om (weer) proberen af te vallen en beter voor zichzelf te gaan zorgen. De grote uitdaging is natuurlijk om dit niet alleen in januari te doen maar er gelijk nieuwe gewoontes van te maken, zodat goede voornemens volgend jaar overbodig zijn! Als je wilt afvallen moet je anders gaan eten: minder eten of ander eten. Veranderen dus. Blijvend veranderen is niet makkelijk. Wij mensen zijn namelijk über gewoontedieren. We voelen ons lekker bij gewoontes en veranderen kost moeite. 
