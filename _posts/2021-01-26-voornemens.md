@@ -68,7 +68,4 @@ Er zitten voordelen aan een big bang aanpak. Meestal wordt op meerdere vlakken i
 
 ## Dus?
 
-Denk bewust na over je plan en experimenteer. Niemand weet wat het beste is voor jou. Heb respect voor jezelf door jezelf serieus te nemen. Is je nieuwe regime bikkelen en onprettig? Hoe lang ga je dat dan volhouden? Doe niet onnodig streng tegen jezelf door te concluderen "dat je het niet kan". Daar schiet je niets mee op. Misschien geeft mijn eerdere (post)[over-afvallen/2020/10/24/afvallen.html] trouwens nog ideeën. En bedenk: al het begin is moeilijk!
-
-PS Als je met afvallen enzo bezig bent dan kom je op internet ook veel lelijke dingen tegen. Ik vind gezond eten en leven boeiend maar de oordelen en de maatschappelijke behoefte om te voldoen aan het schoonheidsideaal staan me tegen. Ook het oordeel dat soms geplakt wordt op mensen die er niet aan voldoen. Zoals de jeugdheld van mijn zus al zo mooi verwoorde: "Come as you are". It's all good. 
-
+Denk bewust na over je plan en experimenteer. Niemand weet wat het beste is voor jou. Heb respect voor jezelf door jezelf serieus te nemen. Is je nieuwe regime bikkelen en onprettig? Hoe lang ga je dat dan volhouden? Doe niet onnodig streng tegen jezelf door te concluderen "dat je het niet kan". Daar schiet je niets mee op. Misschien geeft mijn eerdere (post)[over-afvallen/2020/10/24/afvallen.html] trouwens nog ideeën voor je aanpak. En bedenk: al het begin is moeilijk!
