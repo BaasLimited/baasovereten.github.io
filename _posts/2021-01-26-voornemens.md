@@ -1,6 +1,6 @@
 ---
 title:      "Maak goede voornemens overbodig!"
-date:       2021-02-01 7:00:00 +0200
+date:       2021-01-26 7:00:00 +0200
 tags:       ["Over eten", "Over afvallen", "Over denken", "Over veranderen"]
 category:   "over-afvallen"
 image:      /uploads/oliebol.jpg
