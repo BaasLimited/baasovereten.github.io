@@ -5,7 +5,7 @@ tags:       ["Over eten", "Over afvallen", "Over denken", "Over veranderen"]
 category:   "over-afvallen"
 image:      /uploads/oliebol.jpg
 caption:    "Na de oliebol komen de goede voornemens (waterverf en fineliner in schetsboekje"
-excerpt:    "Hoe gaat het met je goede voornemens? In deze posts vind je manieren om blijvend veranderingen door te voeren."
+excerpt:    "Je goede voornemens niet waar kunnen maken? Niet getreurd. In deze post vind je manieren om veranderingen wel blijvend door te voeren."
 published:  true
 ---
  
