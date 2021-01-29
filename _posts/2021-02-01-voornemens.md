@@ -60,7 +60,7 @@ Veranderen met een "Big Bang". Naast oliebollen en champagne is dit voor sommige
 
 Het gevaar hiervan is bekend. Het volhouden. Hoe zorg je dat je geen jojo wordt? Als je het roer compleet om gaat gooien is het misschien een goed idee om het samen te doen. Sluit je bijvoorbeeld aan bij een groep of doe het samen met een vriend of vriendin. Denk ook op tijd na wat je doet als je je streefgewicht bereikt hebt. Wat wordt jouw nieuwe normaal, zeg maar. En dan bedoel ik geen 1,5 meter afstand, maar wat ga je eten? 
 
-Ook als je voor de big bang gaat is het mijn advies om niet in termen van dieet te denken, maar gezond te gaan eten. Als je eerst flink wil afvallen kan je zorgen dat je minder calorieën eet. Maximaal 500 minder dan wat je per dag nodig hebt, anders honger je je zelf uit! Als je op gewicht bent kan je dan meer eten, maar het hoeft niet anders!
+Ook bij het big bang scenario is het beter om niet in termen van dieet te denken, maar om gezond te gaan eten. Als je eerst flink wil afvallen kan je zorgen dat je minder calorieën eet. Maximaal 500 minder dan wat je per dag nodig hebt, anders honger je je zelf uit! Als je op gewicht bent kan je dan meer eten, maar het hoeft niet anders!
 
 Er zitten voordelen aan een big bang aanpak. Meestal wordt op meerdere vlakken ingegrepen, zoals meer bewegen, gezond en minder eten en geen alcohol meer drinken. Door het hoge ambitieniveau zal je ook relatief snel resultaat zien. Dit motiveert om door te zetten en geeft positieve energie om er mee door te gaan.
 
