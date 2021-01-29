@@ -62,7 +62,7 @@ Het gevaar hiervan is bekend. Het volhouden. Hoe zorg je dat je geen jojo wordt?
 
 Ook bij het big bang scenario is het beter om niet in termen van dieet te denken, maar om gezond te gaan eten. Als je eerst flink wil afvallen kan je zorgen dat je minder calorieën eet. Maximaal 500 minder dan wat je per dag nodig hebt, anders honger je je zelf uit! Als je op gewicht bent kan je weer meer eten, maar het hoeft niet anders! Gezond eten blijft belangrijk.
 
-Er zitten voordelen aan een big bang aanpak. Meestal wordt op meerdere vlakken ingegrepen, zoals meer bewegen, gezond en minder eten en geen alcohol meer drinken. Door het hoge ambitieniveau zal je ook relatief snel resultaat zien. Dit motiveert om door te zetten en geeft positieve energie om er mee door te gaan.
+Er zitten voordelen aan een big bang aanpak. Als je op meerdere vlakken ingegrijpt, zoals meer bewegen, gezond en minder eten en geen alcohol meer drinken, zal je ook relatief snel resultaat zien. Dit motiveert! Het geeft positieve energie om door te gaan.
 
 {% include image.html url="/uploads/neushoorn2.jpg" description="Een neushoorn gaat door, is niet tegen te houden (gouache in schetsboekje)" %}
 
