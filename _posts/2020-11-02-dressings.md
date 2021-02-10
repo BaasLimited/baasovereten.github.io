@@ -69,6 +69,8 @@ Het lekkerste vind ik eigenlijk een simpele dressing met magere kwark of yoghurt
 
 Let wel op dat je niet teveel dressing pakt. Je hebt minder nodig dan je denkt. Zeker als je ze stevig maakt qua smaak. En daar kan je natuurlijk ook mee spelen. Veel van een gezondere dressing is niet handig als je wilt afvallen (in ieder geval die met olie).
 
+{% include image.html url="/uploads/aceto3.jpg" description="Mosterd is heerlijk in een dressing! (waterverf en fineliner in schetsboekje)" %}
+
 ## Combinaties waar ik blij van word
 
 Tot slot, ter inspiratie hier een paar combinaties waar ik blij van word.
