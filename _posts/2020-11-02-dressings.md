@@ -1,6 +1,6 @@
 ---
 title:      "Lekkere en gezonde dressings"
-date:       2020-11-02 14:00:00 +0100
+date:       2021-02-10 14:00:00 +0100
 tags:       ["Over afvallen", "Over eten"]
 category:   "over-eten"
 image:      /uploads/olie-bewerkt2.jpg
@@ -79,6 +79,7 @@ Tot slot, ter inspiratie hier een paar combinaties waar ik blij van word.
 - sla met tomaatjes en basilicum en een dressing met Aceto Balsamico. "The classic"
 - sla met (rauwe) bloemkool, bosui en een yoghurt-kerrie dressing. Hiervoor gebruik ik de pittige kerriemix van de Jumbo. Echt lekker
 - rucola met artichokhartjes uit blik. Voor de dressing: yoghurt, honing, citroensap, gerookte paprikapoeder (lekker veel) en peper & zout
+- sla met edamameboontjes en een dressing van wat olie, balsamico-azijn en mosterd (of eventueel kwark in plaats van olie). 
 
 {% include image.html url="/uploads/wasabi.jpg" description="Een tube Wasabi pasta (waterverf en fineliner in schetsboekje)" %}
 
