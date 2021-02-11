@@ -1,3 +1,21 @@
+-
+id: 'vogels'
+title: "Vogels"
+description: "De mooi veren, maar ook de krachtige vleugels maken vogels voor mij tot een geliefd tekenobject."
+items:
+ - 
+     image: "/uploads/vogel.jpg"
+     caption: "Vogel nagetekend  uit flow tekenboek (waterverf en fineliner op papier)"
+
+-
+id: 'portret_houtskool'
+title: "Mensen met houtskool"
+description: "Houtskool gebruik ik niet vaak meer, waarom eigenlijk niet?"
+items: 
+ - 
+     image: "/uploads/ans-houtskool.jpg"
+     caption: "Een oude foto van Ans nagetekend met houtskool (houtskool op schetspapier)"
+     
 - 
   id: 'acryl' 
   title: "Schilderingen met acrylverf" 
