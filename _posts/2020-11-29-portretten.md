@@ -12,4 +12,8 @@ layout:     gallery-post
 
 {% include gallery.html id="mensen" show_description=false %}
 
-Mensen tekenen is veel moeilijker dan wat dan ook. Ons oog is getraind om te zien of iest gek is of niet klopt. Dit weerhoudt me er niet van om ermee te experimenteren. De meeste van deze werken zijn ook experimenten. Een voor een ben ik nog niet tevreden over, maar tegelijkertijd toch vaak trots op.
+Mensen tekenen is veel moeilijker dan wat dan ook. Ons oog is getraind om te zien of iets gek is of niet klopt. Dit weerhoudt me er niet van om ermee te experimenteren. Ik ben vaak niet tevreden, maar vind het toch leuk om ze op mijn website te delen. Een hele maffe tegenstelling. Om mijn kleuter te quoten: "ik doe het lekker toch". 
+
+{% include gallery.html id="portret_houtskool" show_description=false %}
+
+Houtskool gebruik ik niet vaak meer, waarom eigenlijk niet? Nieuw voornemen: vaker de houtskooltjes erbij pakken!
