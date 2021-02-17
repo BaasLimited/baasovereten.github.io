@@ -9,7 +9,15 @@
    -
      image: "/uploads/ijsvogel.jpg"
      caption: "IJsvogel (waterverf en fineliner op papier)"
-
+   - 
+     image: "/uploads/vogel2.jpg"
+     caption: "Vogel (mixed media (gouache, potlood en softpastel op papier)"
+  - 
+     image: "/uploads/vogel3.jpg"
+     caption: "Vogel (waterverf op papier)"
+  - 
+     image: "/uploads/vogel-houtskool.jpg"
+     caption: "Vogel (houtskool op papier)"
 -
   id: 'portret_houtskool'
   title: "Mensen met houtskool"
