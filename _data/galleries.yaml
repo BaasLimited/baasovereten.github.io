@@ -18,6 +18,10 @@
   - 
      image: "/uploads/vogel-houtskool.jpg"
      caption: "Vogel (houtskool op papier)"
+  - 
+     image: "/uploads/aaseter.jpg"
+     caption: "Aaseter in Blijdorp (potlood op papier)"
+
 -
   id: 'portret_houtskool'
   title: "Mensen met houtskool"
