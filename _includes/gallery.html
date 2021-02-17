@@ -3,8 +3,7 @@
 {% assign max = 9999999 %}
 {% assign diff = max | minus: min %}
 {% assign g = "now" | date: "%N" | modulo: diff | plus: min %}
-{% for gallery in site.data.galleries %}
-    {% if gallery.id == include.id %}
+{% assign gallery = site.data.galleries[include.id] %}
 <div class="row">
     <div class="col-12 px-md-3 px-0">
         {% if include.show_title==true %}
@@ -35,5 +34,3 @@
         </div>
     </div>
 </div>
-    {% endif %}
-{% endfor %}
