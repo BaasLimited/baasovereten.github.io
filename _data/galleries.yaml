@@ -30,7 +30,8 @@
   
 -
   id: 'beestenboel'
-  title: "Verschillende gezellige beesten bij elkaar"
+  title: "Verschillende gezellige beesten bij elkaar" 
+  description: ""
   items:
    -
      image: "/uploads/apenkop.jpg"
@@ -42,8 +43,10 @@
 -
   id: 'katten'
   title: "Katten in de spotlight"
+  description: ""
   items:
-   - image: "/uploads/boskat.jpg"
+   - 
+     image: "/uploads/boskat.jpg"
      caption: "Blijdorpse boskat met softpastel"
        
 - 
