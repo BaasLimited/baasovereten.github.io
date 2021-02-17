@@ -21,16 +21,31 @@
    - 
      image: "/uploads/aaseter.jpg"
      caption: "Aaseter in Blijdorp (potlood op papier)"
+   - 
+     image: "/uploads/eend.jpg"
+     caption: "Deze eend is een van mijn eerste waterverfproducten! (waterverf op papier)
+   -
+     image: "/uploads/eendje.jpg"
+     caption: "Een klein eendje voor Kiki (waterverf op papier)
+  
+-
+  id: 'beestenboel'
+  title: "Verschillende gezellige beesten bij elkaar"
+  items:
+   -
+     image: "/uploads/apenkop.jpg"
+     caption: "Hoofd van een aap met houtskool"
+   -
+     image: "/uploads/eekhoorn.jpg"
+     caption: "Eekhoorn met potlood"
 
 -
-  id: 'portret_houtskool'
-  title: "Mensen met houtskool"
-  description: "Houtskool gebruik ik niet vaak meer, waarom eigenlijk niet?"
-  items: 
-   - 
-     image: "/uploads/ans-houtskool.jpg"
-     caption: "Een oude foto van Ans nagetekend met houtskool (houtskool op schetspapier)"
-     
+  id: 'katten'
+  title: "Katten in de spotlight"
+  items:
+   - image: "/uploads/boskat.jpg"
+     caption: "Blijdorpse boskat met softpastel"
+       
 - 
   id: 'acryl' 
   title: "Schilderingen met acrylverf" 
