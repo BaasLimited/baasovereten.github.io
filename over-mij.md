@@ -36,13 +36,3 @@ Ik ben erfelijk belast. Creatief bezig zijn, met name tekenen en schilderen, heb
     <a id="my-email" class="no-new-window" href="mailto:r.idj9eieidk.ens.idjmf8eidk.ke@ba.idj%gueidk.asm.idj-ofeidk.ail.n.idj1!1eidk.l">
         <span class="e-mail" data-user="eksner" data-website="ln.liamsaab"></span>
     </a>
-</p>
-<table>
-    <tr>
-        {% for item in site.data.socialitems %}
-        <td>
-            <a class="contact-social-link pl-0 mr-3" href="{{item.uri}}"><i class="fab fa-{{item.type}} fa-2x"></i></a>
-        </td>
-        {% endfor %}
-    </tr>
-</table>
