@@ -1,8 +1,8 @@
 ---
 title:      "Worteltastisch"
 date:       2021-01-11 7:00:00 +0200
-tags:       ["Over eten", "Over afvallen"]
-category:   "over-eten"
+tags:       ["Gezond eten", "recepten"]
+category:   "gezond-leven"
 image:      /uploads/wortelen.jpg
 caption:    "Zak met wortelen (waterverf en fineliner in schetsboekje)"
 excerpt:    "Wortelen zijn super goed voor je. Er zitten veel vitamines in en daarom zouden we ze eigenlijk meer moeten eten. Ik zelf at bijna nooit wortelen. Samen met mijn vriend zijn we op jacht gegaan naar lekkere wortelrecepten en met succes! Hier vind je de toppers!"
@@ -23,7 +23,7 @@ Na wat experimenten hebben mijn vriend en ik een aantal heerlijke wortel gerecht
 
 Wortel is samen met zoete aardappel en zwarte bonen een gouden trio! De zwarte bonen maken het ook ontzettend goed voor de vega's door de plantaardige eiwitten. Trouwens ook voor vleeseters, want het wordt aangeraden om maximaal 1/3 van al je eiwitten uit dierlijke producten te halen. [Hier vind je het recept.](https://www.voedingscentrum.nl/recepten/gezond-recept/zoete-aardappelcurry-met-boontjes.aspx)
 
-Mijn vriend maakt deze niet met kerriepoeder maar lekker met rode curry pasta. In de kant-en-klare pakjes rode curry zit veel zout, dus hij maakt hem soms ook zelf (maar niet altijd). Bijvoorbeeld, [dit recept.](https://familieoverdekook.nl/thaise-rode-currypasta-zelf-maken/) Ben je ook een vegetarier of veganist? Dan kan je de vissaus vervangen door sojasaus. 
+Mijn vriend maakt deze niet met kerriepoeder maar lekker met rode curry pasta. In de kant-en-klare pakjes rode curry zit veel zout, dus hij maakt hem soms ook zelf (maar niet altijd). Bijvoorbeeld, [dit recept.](https://familieoverdekook.nl/thaise-rode-currypasta-zelf-maken/) Ben je ook een vegetarier of veganist? Dan kan je de vissaus vervangen door sojasaus.
 
 {% include image.html url="/uploads/rodecurry.jpg" description="Kant-en-klaar rode curry (waterverf en fineliner in schetsboekje)" %}
 
@@ -33,7 +33,7 @@ Nou wat ben ik enthousiast over dit recept. Een heerlijk soepje. Lekker zoet en 
 
 ### Worteltapenade
 
-Deze is heerlijk! Ik vind deze heel lekker om op brood te doen. Veel kant-en-klare spreads bevatten teveel verzadigd vet, zout of suiker om gezond te zijn. Daarom ben ik zelf groentespreads voor op brood gaan maken, waaronder deze worteltapenade. Je kan hem ook gebruiken voor een gezonde aanvulling bij een borrel of lekker door een salade in plaats van een dressing. Ik heb de tapenade met cottagecheese gemaakt in plaats van ricotta. Minder vet en net zo lekker! Past nu perfect in een dieet. 
+Deze is heerlijk! Ik vind deze heel lekker om op brood te doen. Veel kant-en-klare spreads bevatten teveel verzadigd vet, zout of suiker om gezond te zijn. Daarom ben ik zelf groentespreads voor op brood gaan maken, waaronder deze worteltapenade. Je kan hem ook gebruiken voor een gezonde aanvulling bij een borrel of lekker door een salade in plaats van een dressing. Ik heb de tapenade met cottagecheese gemaakt in plaats van ricotta. Minder vet en net zo lekker! Past nu perfect in een dieet.
 
 [Hier kan je de worteltapenade vinden.](https://weckenonline.eu/recepten/worteltapenade/)
 

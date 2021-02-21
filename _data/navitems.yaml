@@ -1,18 +1,8 @@
-- name: Home
-  uri: /
-- name: "Over denken"
-  uri: /over-denken/
-- name: "Over afvallen"
-  uri: /over-afvallen/
-- name: "Over eten"
-  uri: /over-eten/
-- name: "Over bewegen"
-  uri: /over-bewegen/
-- name: "Over schilderen"
-  uri: /over-schilderen/
-- name: "Over tekenen"
-  uri: /over-tekenen/
-- name: "Over mij"
+- name: "Gezond leven"
+  uri: /gezond-leven/
+- name: "Tevreden leven"
+  uri: /tevreden-leven/
+- name: "Kunst"
+  uri: /kunst/
+- name: "zichzelf"
   uri: /over-mij.html
-- name: "Contact"
-  uri: /contact.html

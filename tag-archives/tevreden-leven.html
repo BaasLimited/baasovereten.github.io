@@ -1,0 +1,11 @@
+---
+title: "Tevreden leven"
+permalink: /tevreden-leven/index
+layout: "page-wide"
+---
+<h1>Tevreden leven</h1>
+<div class="row mt-3 row-eq-height">
+    {% for post in site.categories["tevreden-leven"] %}
+        {% include post-block.html %}
+    {% endfor %}
+</div>

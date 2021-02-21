@@ -1,8 +1,8 @@
 ---
 title:      "Meer bewegen... maar hoe dan?"
 date:       2020-10-21 9:00:00 +0200
-tags:       ["Over bewegen", "Over afvallen"]
-category:   "over-bewegen"
+tags:       ["Bewegen", "Volhouden"]
+category:   "gezond-leven"
 image:      /uploads/herfst.jpg
 caption:    "Ik en mijn kleine meid op een regenachtige dag in het park (Waterverf en fineliner in schetsboekje)"
 excerpt:    "Volgens de beweegrichtinglijnen moeten we ontzettend veel te bewegen. Met alleen sporten kom je er niet en vind ik ook moeilijk vol te houden. Probeer zoveel mogelijk beweging in je dagelijks leven in te passen. Eenmaal in de routine ingebakken kost het veel minder moeite! Lees hier verder... "
@@ -22,7 +22,7 @@ De beweegrichtlijnen van de Gezondheidsraad schrijven het volgende voor (zie de 
 - Doe minstens 2x per week spier- en botversterkende activiteiten (voor ouderen inclusief balansoefeningen)
 - Voorkom veel stilzitten
 
-Volgens deze richtlijnen moeten we dus veel bewegen. Heel veel zelfs. Als je een druk leven hebt dan lijkt het onmogelijk. Misschien heb je kinderen, of een drukke baan (of allebei). Hoe ga je dat dan in hemelsnaam halen? 
+Volgens deze richtlijnen moeten we dus veel bewegen. Heel veel zelfs. Als je een druk leven hebt dan lijkt het onmogelijk. Misschien heb je kinderen, of een drukke baan (of allebei). Hoe ga je dat dan in hemelsnaam halen?
 
 > Alle kleine beetjes helpen, dus probeer in je 'normale leven' het bewegen zoveel mogelijk in te puzzelen
 

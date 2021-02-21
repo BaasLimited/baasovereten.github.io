@@ -1,0 +1,11 @@
+---
+title: "Gezond leven"
+permalink: /gezond-leven/index
+layout: "page-wide"
+---
+<h1>Gezond leven</h1>
+<div class="row mt-3 row-eq-height">
+    {% for post in site.categories["gezond-leven"] %}
+        {% include post-block.html %}
+    {% endfor %}
+</div>
