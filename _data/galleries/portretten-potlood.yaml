@@ -1,6 +1,11 @@
 title: "Pure tekeningen en schetsen met potlood"
 description: "Misschien kleur ik ze nog wel eens in...."
 items:
-  -
-    image: "/uploads/portret9.jpg"
+  - image: "/uploads/portret9.jpg"
     caption: "Portret 9 (Potlood in schetsboek)"
+  - image: "/uploads/wiebes.jpg"
+    caption: "Wiebes van nu.nl (Potlood in schetsboek)"
+  - image: "/uploads/postbode.jpg"
+    caption: "Postbode (Potlood in schetsboek)"
+  - image: "/uploads/suus.jpg"
+    caption: "Mooie foto nagetekend (potlood in schetsboekje)"

@@ -1,27 +1,27 @@
 title: "Portretten met waterverf"
 description: "Deze mensen hebben kleur gekregen met waterverf."
 items:
-  -
-    image: "/uploads/waterverfportret.jpg"
-    caption: "Waterverfportret 1 (Aquarelverf op papier)"
-  -
-    image: "/uploads/fietsen.jpg"
+  - image: "/uploads/portret7-wip.jpg"
+    caption: "Waterverfportret 7 (waterverf op papier)"
+  - image: "/uploads/rutte.jpg"
+    caption: "Mark Rutte kwam als eerste op nu.nl voorbij toen ik inspiratie zocht (waterverf in schetsboekje)"
+  - image: "/uploads/waterverfportret.jpg"
+    caption: "Waterverfportret 1 (waterverf op papier)"
+  - image: "/uploads/fietsen.jpg"
     caption: "Man op de fies in Amsterdam (fineliner en waterverf in schetboekje)"
-  -
-    image: "/uploads/zelfportret.jpg"
+  - image: "/uploads/zelfportret.jpg"
     caption: "Zelfportret (waterverf in schetsboekje)"
-  -
-    image: "/uploads/vrouw.jpg"
+  - image: "/uploads/vrouw.jpg"
     caption: "Vrouw verstopt zich (waterverf in schetsboekje)"
-  -
-    image: "/uploads/portret3.jpg"
+  - image: "/uploads/portret3.jpg"
     caption: "Portret nr. 3 (waterverf in schetsboekje)"
-  -
-    image: "/uploads/felix-portret2.jpg"
+  - image: "/uploads/felix-portret2.jpg"
     caption: "Man nagetekend uit boek van Felix Scheinberger (waterverf op aquarelpapier)"
-  -
-    image: "/uploads/woldhek-mandela.jpg"
+  - image: "/uploads/woldhek-mandela.jpg"
     caption: "Kleinmondige Mandela van Woldhek nagemaakt (waterverf op aquarelpapier)"
-  -
-    image: "/uploads/zelfportret-met-kiki.jpg"
+  - image: "/uploads/zelfportret-met-kiki.jpg"
     caption: "Ik met mijn liefste kleine meid op de bank (waterverf in schetsboekje)"
+  - image: "/uploads/portret10.jpg"
+    caption: "Portret 10 (waterverf op papier)"
+  - image: "/uploads/roaringtwenties.jpg"
+    caption: "Roaring twenties, ben jij al klaar voor een feestje? (waterverf op papier)"
