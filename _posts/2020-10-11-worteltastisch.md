@@ -1,7 +1,7 @@
 ---
 title:      "Worteltastisch"
 date:       2021-01-11 7:00:00 +0200
-tags:       ["Gezond eten", "recepten"]
+tags:       ["recepten", "gezond eten"]
 category:   "gezond-leven"
 image:      /uploads/wortelen.jpg
 caption:    "Zak met wortelen (waterverf en fineliner in schetsboekje)"

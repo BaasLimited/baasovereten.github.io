@@ -1,7 +1,7 @@
 ---
 title:      "Lekkere en gezonde dressings"
 date:       2021-02-10 14:00:00 +0100
-tags:       ["gezond eten", "recepten"]
+tags:       ["recepten", "gezond eten"]
 category:   "gezond-leven"
 image:      /uploads/olie-bewerkt2.jpg
 caption:    "Flessen olie (waterverf en fineliner in schetsboekje)"
