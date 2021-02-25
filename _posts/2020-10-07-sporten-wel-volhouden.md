@@ -12,7 +12,7 @@ layout:     gallery-post
 
 {% include image.html url="/uploads/hardlopen.jpg" description="Hardlopen in de stad (waterverf en fineliner in schetsboekje)" %}
 
-[In mijn eerdere post](/over-bewegen/2020/10/21/meer-bewegen.html) schreef ik al wat de bewegingsrichtlijnen van de gezondheidsraad zijn. Veeel bewegen en sporten dus! Als het lukt: RESPECT. Als het niet lukt: hier wat tips. Bij deze tips haal ik als voorbeeld vaak hardlopen aan, maar dit geldt natuurlijk voor alle (duur)sporten.
+[In mijn eerdere post](/gezond-leven/2020/10/21/meer-bewegen.html) schreef ik al wat de bewegingsrichtlijnen van de gezondheidsraad zijn. Veeel bewegen en sporten dus! Als het lukt: RESPECT. Als het niet lukt: hier wat tips. Bij deze tips haal ik als voorbeeld vaak hardlopen aan, maar dit geldt natuurlijk voor alle (duur)sporten.
 
 **1. Het hoeft niet perfect volgens de richtlijn**
 
