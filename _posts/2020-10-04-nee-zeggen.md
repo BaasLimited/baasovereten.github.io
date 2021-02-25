@@ -6,7 +6,7 @@ category:   "gezond-leven"
 image:      /uploads/tompoes.jpg
 caption:    "Hema tompoes (waterverf en fineliner in schetsboekje)"
 excerpt:    "Af en toe wat lekkers: een taartje of een snoep moet kunnen. Niet te vaak helaas, anders gaan de kilo's er niet vanaf. Het blijft balen dat het zo werkt. Dan kunnen de taartjes en soepjes maar beter rete-lekker zijn. En traktaties die eigenlijk mhah zijn... nee echt ff niet. Zonde van de calorieën! Je ontkomt niet aan nee zeggen. Maar hoe?"
-published:  true
+published:  false
 ---
 
 Voor jezelf zorgen is respectvol *nee* zeggen. Deze quote kwam ik tegen op de "Scheur je los" scheurkalender van 2016 of was het een ander jaar? Laten we zeggen dat mijn scheurkalender wat achter loopt. Maar dat terzijde.
