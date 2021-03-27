@@ -41,3 +41,13 @@ Zomertijd! Deze dressing is heerlijk. Met wat fantasie is het net of het een hee
 - peper en zout
 
 Deze dressing is heerlijk bij wat sla met doperwten erdoor. Of over sla met watermeloen! Yes, nu heb ik er helemaal zin in.
+
+# Paprika op zijn best: smokey!
+
+Eigenlijk wordt alles heerlijk met gerookte paprikapoeder, maar deze dressing al helemaal!
+
+- 1 a 2 eetlepers halfvolle yoghurt
+- 1 eetlepel honing
+- scheutje citroensap
+- gerookte paprikapoeder (lekker veel)
+- peper & zout
