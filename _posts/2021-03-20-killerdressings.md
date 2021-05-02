@@ -4,7 +4,7 @@ date:       2021-03-20 9:00:00 +0100
 tags:       ["recepten", "gezond eten"]
 category:   "gezond-leven"
 image:      /uploads/ketjap2.jpg
-caption:    "ketjap (gouache en kleurpotlood in schetsboekje)"
+caption:    "Ketjap (gouache en kleurpotlood in schetsboekje)"
 excerpt:    "Hier vind je een aantal heerlijke en gezonde dressings die het verdienen om in het zonnetje gezet te worden!"
 published:  true
 ---
