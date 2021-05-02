@@ -28,7 +28,7 @@ De olie doe ik meestal niet. Ik vind het qua smaak niet veel toevoegen en het is
 
 Deze dressing past bij heel veel salades, maar ik vind 'm heerlijk bij wat little gem sla met snijboontjes en witte boontjes. De laatste twee zijn gecombineerd in kleine blikjes van Bonduelle te verkrijgen. Ideaal!
 
-{% include image.html url="/uploads/munt.jpg" description="Munt (waterverf in schetsboekje)" %}
+{% include image.html url="/uploads/muntbw.jpg" description="Munt (waterverf in schetsboekje)" %}
 
 # 'Million dollar' munt dressing
 
