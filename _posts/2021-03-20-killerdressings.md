@@ -51,3 +51,16 @@ Eigenlijk wordt alles heerlijk met gerookte paprikapoeder, maar deze dressing al
 - scheutje citroensap
 - gerookte paprikapoeder (lekker veel)
 - peper & zout
+
+{% include image.html url="/uploads/citroenenbw.jpg" description="Citroenen, hun sap is lekker in bijna elke dressing (waterverf in schetsboekje)" %}
+
+# Pittige type
+
+Pittig eten is bijna verslavend. Héérlijk als er wat pit in zit. Wasabi is een heerlijke afwisseling van de sambal.
+Wist je trouwens dat fijngeraspte mieriekswortel hier super veel op lijkt? Ik dacht, ik probeer eens wat anders. Nou bijna hetzelfde als wasabi dus.  
+
+- 1 a 2 eetlepers halfvolle yoghurt of magere kwark
+- 1 eetlepel honing
+- scheutje citroensap
+- gerookte wasabi-pasta of fijngeraspte mieriekswortel
+- peper & zout
