@@ -56,8 +56,7 @@ Eigenlijk wordt alles heerlijk met gerookte paprikapoeder, maar deze dressing al
 
 # Pittige type
 
-Pittig eten is bijna verslavend. Héérlijk als er wat pit in zit. Wasabi is een heerlijke afwisseling van de sambal.
-Wist je trouwens dat fijngeraspte mieriekswortel hier super veel op lijkt? Ik dacht, ik probeer eens wat anders. Nou bijna hetzelfde als wasabi dus.  
+Deze dressing is heerlijk als je net als ik gek bent op pittig eten. De wasabi is een fijne afwisseling van sambal of chilipoeder om wat pit toe te voegen. Wist je trouwens dat fijngeraspte mieriekswortel hier super veel op lijkt? Ik dacht, ik probeer eens wat anders. Nou bijna hetzelfde als wasabi dus.  
 
 - 1 a 2 eetlepers halfvolle yoghurt of magere kwark
 - 1 eetlepel honing
