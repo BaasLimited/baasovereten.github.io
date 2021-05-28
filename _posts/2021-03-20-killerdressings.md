@@ -1,10 +1,10 @@
 ---
 title:      "Killerdressings"
-date:       2021-03-20 9:00:00 +0100
+date:       2021-05-28 9:00:00 +0100
 tags:       ["recepten", "gezond eten"]
 category:   "gezond-leven"
-image:      /uploads/ketjap2.jpg
-caption:    "Ketjap (gouache en kleurpotlood in schetsboekje)"
+image:      /uploads/citroenenbw.jpg
+caption:    "Citroenen - een van de basisingrediënten van een lekkere dressing (waterverf en fineliner in schetsboekje)"
 excerpt:    "Hier vind je een aantal heerlijke en gezonde dressings die het verdienen om in het zonnetje gezet te worden!"
 published:  true
 ---
@@ -28,6 +28,29 @@ De olie doe ik meestal niet. Ik vind het qua smaak niet veel toevoegen en het is
 
 Deze dressing past bij heel veel salades, maar ik vind 'm heerlijk bij wat little gem sla met snijboontjes en witte boontjes. De laatste twee zijn gecombineerd in kleine blikjes van Bonduelle te verkrijgen. Ideaal!
 
+{% include image.html url="/uploads/ketjap2.jpg" description="Ketjap (gouache en kleurpotlood in schetsboekje)" %}
+
+# Paprika op zijn best: smokey!
+
+Eigenlijk wordt alles heerlijk met gerookte paprikapoeder, maar deze dressing al helemaal!
+
+- 1 a 2 eetlepers halfvolle yoghurt
+- 1 eetlepel honing
+- scheutje citroensap
+- gerookte paprikapoeder (lekker veel)
+- peper & zout
+
+# Pittige type
+
+Deze dressing is heerlijk als je net als ik gek bent op pittig eten. De wasabi is een fijne afwisseling van sambal of chilipoeder om wat pit toe te voegen. Wist je trouwens dat fijngeraspte mieriekswortel hier super veel op lijkt? Ik dacht, ik probeer eens wat anders. Nou bijna hetzelfde als wasabi dus.  
+
+- 1 a 2 eetlepers halfvolle yoghurt of magere kwark
+- 1 eetlepel honing
+- scheutje citroensap
+- gerookte wasabi-pasta of fijngeraspte mieriekswortel
+- peper & zout
+
+
 {% include image.html url="/uploads/muntbw.jpg" description="Munt (waterverf in schetsboekje)" %}
 
 # 'Million dollar' munt dressing
@@ -42,24 +65,40 @@ Zomertijd! Deze dressing is heerlijk. Met wat fantasie is het net of het een hee
 
 Deze dressing is heerlijk bij wat sla met doperwten erdoor. Of over sla met watermeloen! Yes, nu heb ik er helemaal zin in.
 
-# Paprika op zijn best: smokey!
+# Kruidentuin
 
-Eigenlijk wordt alles heerlijk met gerookte paprikapoeder, maar deze dressing al helemaal!
+Gewoon lekker. Ik kan er meer over zeggen, maar dat is nergens voor nodig.
 
-- 1 a 2 eetlepers halfvolle yoghurt
-- 1 eetlepel honing
-- scheutje citroensap
-- gerookte paprikapoeder (lekker veel)
-- peper & zout
+- scheutje hennepolie of olijfolie
+- 2 a 3 eetlepels halfvolle yoghurt
+- klein kneepje citroensap
+- verse munt
+- wat gedroogte peterselie
+- wat gedroogde provenciaalse kruiden
+- peper en zout
 
-{% include image.html url="/uploads/citroenenbw.jpg" description="Citroenen, hun sap is lekker in bijna elke dressing (waterverf in schetsboekje)" %}
 
-# Pittige type
+{% include image.html url="/uploads/bloemen4-wit.jpg" description="Bloemetje - gezellig & totaal ongerelateerd aan dressing (inkt in schetsboekje en digitaal gekleurd)" %}
 
-Deze dressing is heerlijk als je net als ik gek bent op pittig eten. De wasabi is een fijne afwisseling van sambal of chilipoeder om wat pit toe te voegen. Wist je trouwens dat fijngeraspte mieriekswortel hier super veel op lijkt? Ik dacht, ik probeer eens wat anders. Nou bijna hetzelfde als wasabi dus.  
+# Verrassend zootje
 
-- 1 a 2 eetlepers halfvolle yoghurt of magere kwark
-- 1 eetlepel honing
-- scheutje citroensap
-- gerookte wasabi-pasta of fijngeraspte mieriekswortel
-- peper & zout
+Deze ingrediënten samen kunnen niet lekker zijn, of toch wel?
+(echt wel dus)
+
+* scheutje olijfolie of hennepolie
+* klein kneepje (slanke) mayonaise
+* kneepje citroensap
+* kneepje mosterd
+* beetje sambal
+* wat gedroogde provenciaalse kruiden
+* peper en zout
+
+# Fris, fris, fris, fris (niet koud maar fris)
+
+Dille is een klassieke combinatie met zalm of andere vis. Ik vind deze dressing eigenlijk lekker over elke soort salade. lekker fris (of had ik dat al gezegd?)
+* yoghurt
+* evt. scheutje olie
+* wat citroensap
+* wat dille
+* evt. wat paprikapoeder
+* peper en zout
