@@ -9,7 +9,9 @@ excerpt:    "Huh, wie ben jij dan?? Iemand nieuws ontmoeten (hoe klein of anders
 published:  true
 ---
 
-De tekening is geïnspireerd op het werk van Lucia Coz. 
+De tekening is geïnspireerd op het werk en de cursus van Lucia Coz.
 
-Digitaal heb ik met de kleuren zitten spelen. Dit is een andere versie
-{% include image.html url="/uploads/stekelvarken-4.jpg" description="Stekelvarken in het groen (fineliner, gouache en digitaal verkleurd)" %}
+Digitaal heb ik met de kleuren zitten spelen. Leuk om te doen. Door het spelen hiermee leer ik ook steeds betere welke kleuren "lekker werken" samen.
+
+Dit zijn een paar andere versies.
+{% include gallery.html id="stekelvarken" show_description=false %}
