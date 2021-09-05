@@ -8,7 +8,7 @@ permalink: /over-mij
 Ik ben Renske Baas - Kok. Ook wel Renske Kok genoemd.
 Ik ben algemeen- en gezondheidseconoom. Fan van cijfers. Je maakt me gelukkig met rekenmodellen en projectschema's. Je kan me wakker maken voor een goede grafiek. Cijfers en data in een beeld zeggen meer dan duizend woorden.
 
-![foto Renske Baas](/uploads/mijnfoto.jpg)
+<!--_![foto Renske Baas](/uploads/mijnfoto.jpg)-->
 
 Vaak wordt gedacht dat economie alleen over geld gaat. Economie is meer dan dat. Het is de studie van de schaarste. Centraal staat hoe we alles verdelen wat niet oneindig beschikbaar is. Bij berekeningen en toekomstverwachtingen van deze verdeling wordt ons gedrag ingeschat. Dit vind ik interessant. Tijdens mijn studie economie was ik hier door geboeid, maar het boeit me ook nu. Nu in het dagelijks leven.
 
@@ -18,17 +18,15 @@ Waarom doen we bepaalde dingen wel of juist niet? Bij mijn coachingsopleiding bi
 
 # Gezond leven
 
-Na de geboorte van mijn lieve dochter is er een interesse bij gekomen: gezond eten en bewegen. Heel mijn leven heb ik gedacht dat ik nou eenmaal mollig was. Na mijn zwangerschap nog wat meer dan daarvoor. Gemotiveerd door een leuke sportles in de buurt ging ik een poging tot afvallen doen en wat bleek: het lukte!
+Ook gezond eten en bewegen boeit me. De coronacrisis heeft me zelfs de tijd gegund om een opleiding tot voedingsconsulent te starten naast mijn werk. "Wat ga je met de opleiding doen?" Dit is me meerdere keren gevraagd. Ik weet het niet. Ik ben niet van plan om voedingsconsulent te worden. Mijn nieuwe kennis kunnen delen met de wereld lijkt me wel wat... Daar is het idee voor deze website geboren.
 
-De interesse in gezond eten en bewegen blijft. De coronacrisis heeft me zelfs de tijd gegund om een opleiding tot voedingsconsulent te starten naast mijn werk. "Wat ga je met de opleiding doen?" Dit is me meerdere keren gevraagd. Ik weet het niet. Ik ben niet van plan om voedingsconsulent te worden. Mijn nieuwe kennis kunnen delen met de wereld lijkt me wel wat... Daar is het idee voor deze website geboren.
-
-Nu kan ik mijn inzichten over coaching, gezond leven en wat ik verder nog boeiend vind delen met wie het lezen wil. Wie weet, misschien dat iemand er ooit eens iets aan heeft.
+Nu kan ik mijn inzichten over coaching, gezond leven en wat ik verder nog boeiend vind delen met wie het lezen wil.
 
 # Kunst
 
-Ik ben erfelijk belast. Creatief bezig zijn, met name tekenen en schilderen, heb ik van kinds af aan gedaan. Mijn moeder, zus, nichtje en dochter zijn er ook mee belast. Alle plaatjes op deze website zijn van eigen hand. Ik vind het leuk om deze met jullie te delen!
+Ik ben erfelijk belast. Creatief bezig zijn, met name tekenen en schilderen, heb ik van kinds af aan gedaan. Mijn moeder, zus, nichtje en dochter zijn er ook mee belast. Alle plaatjes op deze website zijn van eigen hand.
 
-#gezondheid #rekenen #cijfertjes #vega #tekenen #waterverven #inspiratie #vrijleven #doenwatjewilt
+#gezondheid #rekenen #cijfertjes #vega #tekenen #waterverven #inspiratie #vrijleven 
 
 
 # You talking to me?
