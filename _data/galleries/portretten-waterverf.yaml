@@ -1,6 +1,8 @@
 title: "Portretten met waterverf"
 description: "Deze mensen hebben kleur gekregen met waterverf."
 items:
+  - image: "/uploads/vrouwinnacht.jpg"
+    caption: "Vrouw in de nacht geïnspireerd op werk van Hülya Özdemir (waterverf op papier)"
   - image: "/uploads/portret7-wip.jpg"
     caption: "Waterverfportret 7 (waterverf op papier)"
   - image: "/uploads/rutte.jpg"
